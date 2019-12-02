@@ -1,21 +1,6 @@
 [
   {
-    "id": "6-0_2019-12-02T14:27:58Z",
-    "inc_id": null,
-    "cluster": true,
-    "etr": "2019-12-02T20:00:00Z",
-    "etr_confidence": null,
-    "comments": null,
-    "cause": null,
-    "number_out": 7,
-    "cust_affected": 10,
-    "crew_status": null,
-    "start_time": "2019-12-02T14:27:58Z",
-    "lat": 38.01058,
-    "lng": -84.44622
-  },
-  {
-    "id": "6-1_2019-12-02T17:11:24Z",
+    "id": "6-0_2019-12-02T17:11:24Z",
     "inc_id": "19149450",
     "cluster": false,
     "etr": "2019-12-02T19:30:00Z",
@@ -30,13 +15,13 @@
     "lng": -85.3449
   },
   {
-    "id": "6-2_2019-12-02T16:13:59Z",
+    "id": "6-1_2019-12-02T16:13:59Z",
     "inc_id": "19149425",
     "cluster": false,
     "etr": "2019-12-02T19:00:00Z",
     "etr_confidence": null,
     "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
+    "cause": "Trees or limbs in lines",
     "number_out": 1,
     "cust_affected": 4,
     "crew_status": null,
@@ -45,7 +30,7 @@
     "lng": -84.88794
   },
   {
-    "id": "6-3_2019-12-02T14:51:58Z",
+    "id": "6-2_2019-12-02T14:51:58Z",
     "inc_id": null,
     "cluster": true,
     "etr": "2019-12-02T21:30:00Z",
@@ -60,7 +45,22 @@
     "lng": -85.89302
   },
   {
-    "id": "6-4_2019-12-02T15:17:30Z",
+    "id": "6-3_2019-12-02T15:17:30Z",
+    "inc_id": null,
+    "cluster": true,
+    "etr": "2019-12-02T21:00:00Z",
+    "etr_confidence": null,
+    "comments": null,
+    "cause": null,
+    "number_out": 6,
+    "cust_affected": 35,
+    "crew_status": null,
+    "start_time": "2019-12-02T15:17:30Z",
+    "lat": 38.18783,
+    "lng": -85.66388
+  },
+  {
+    "id": "6-4_2019-12-02T14:27:58Z",
     "inc_id": null,
     "cluster": true,
     "etr": "2019-12-02T20:00:00Z",
@@ -68,29 +68,14 @@
     "comments": null,
     "cause": null,
     "number_out": 4,
-    "cust_affected": 32,
+    "cust_affected": 5,
     "crew_status": null,
-    "start_time": "2019-12-02T15:17:30Z",
-    "lat": 38.14058,
-    "lng": -85.70597
+    "start_time": "2019-12-02T14:27:58Z",
+    "lat": 38.07388,
+    "lng": -84.50065
   },
   {
-    "id": "6-0_2019-12-02T15:36:49Z",
-    "inc_id": "19149403",
-    "cluster": false,
-    "etr": "2019-12-02T18:00:00Z",
-    "etr_confidence": null,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Scheduled maintenance",
-    "number_out": 1,
-    "cust_affected": 4,
-    "crew_status": null,
-    "start_time": "2019-12-02T15:36:49Z",
-    "lat": 37.01263,
-    "lng": -82.53215
-  },
-  {
-    "id": "6-1_2019-12-01T06:40:56Z",
+    "id": "6-0_2019-12-01T06:40:56Z",
     "inc_id": "19148991",
     "cluster": false,
     "etr": "2019-12-02T21:00:00Z",
@@ -105,7 +90,7 @@
     "lng": -83.75629
   },
   {
-    "id": "6-2_2019-12-02T15:34:01Z",
+    "id": "6-1_2019-12-02T15:34:01Z",
     "inc_id": null,
     "cluster": true,
     "etr": "2019-12-02T18:30:00Z",
@@ -120,7 +105,7 @@
     "lng": -84.11287
   },
   {
-    "id": "6-3_2019-12-02T16:09:26Z",
+    "id": "6-2_2019-12-02T16:09:26Z",
     "inc_id": "19149418",
     "cluster": false,
     "etr": "2019-12-02T18:30:00Z",
