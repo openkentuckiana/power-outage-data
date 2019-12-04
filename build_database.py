@@ -93,7 +93,8 @@ def save_outage(db, outage, when, hash):
 if __name__ == "__main__":
     import sys
 
-    db_name = "lgeku/outages.db"
+    db_name = sys.argv[-1]
+    assert db_name.endswith(".db")
     db = sqlite_utils.Database(db_name)
     if not db.tables:
         print("Creating tables")
@@ -149,8 +150,3 @@ group by outage;
         )
 
     repo = git.Repo(".", odbt=git.GitDB)
-    git = repo.git
-    git.add(db_name)
-    git.config("--global", "user.name", "CFK Scraper")
-    git.config("--global", "user.email", "noreply@codeforkentuckiana.org")
-    git.commit("-m", f"Updating {db_name}")
