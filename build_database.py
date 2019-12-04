@@ -151,4 +151,6 @@ group by outage;
     repo = git.Repo(".", odbt=git.GitDB)
     git = repo.git
     git.add(db_name)
+    git.config("--global", "user.name", "CFK Scraper")
+    git.config("--global", "user.email", "noreply@codeforkentuckiana.org")
     git.commit("-m", f"Updating {db_name}")
