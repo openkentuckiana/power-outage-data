@@ -42,6 +42,20 @@
     "lng": -85.30757
   },
   {
+    "id": "19150143",
+    "cluster": false,
+    "etr": "2019-12-04T19:30:00Z",
+    "etr_confidence": null,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Scheduled maintenance",
+    "number_out": 1,
+    "cust_affected": 5,
+    "crew_status": null,
+    "start_time": "2019-12-04T16:49:50Z",
+    "lat": 36.61184,
+    "lng": -83.72237
+  },
+  {
     "id": "19150130",
     "cluster": false,
     "etr": "2019-12-04T19:00:00Z",
@@ -68,19 +82,5 @@
     "start_time": "2019-12-03T15:45:26Z",
     "lat": 36.84661,
     "lng": -83.31494
-  },
-  {
-    "id": "19150035",
-    "cluster": false,
-    "etr": "2019-12-04T17:30:00Z",
-    "etr_confidence": null,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Scheduled maintenance",
-    "number_out": 1,
-    "cust_affected": 11,
-    "crew_status": null,
-    "start_time": "2019-12-04T14:17:13Z",
-    "lat": 38.38727,
-    "lng": -84.30495
   }
 ]
