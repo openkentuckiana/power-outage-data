@@ -18,11 +18,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Log in to Heroku
-        uses: actions/heroku@master
-        env:
-          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
-        with:
-          args: container:login
+      uses: actions/heroku@master
+      env:
+        HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+      with:
+        args: container:login
     - name: Run app
       env:
         HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
