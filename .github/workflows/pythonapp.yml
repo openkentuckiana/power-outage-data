@@ -1,9 +1,6 @@
 name: Python application
 
-on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '*/15 * * * *'
+on: push
 
 jobs:
   build:
@@ -11,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2-beta
     - name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
@@ -24,4 +21,4 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        python scrape_all.py
+        python build_database.py
