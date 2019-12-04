@@ -27,5 +27,5 @@ jobs:
       env:
         HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
       run: |
-        python build_database.py lgeku/outages.jspn
-        datasette publish heroku --name lgeku-outages lgeku/outages.jspn
+        python build_database.py lgeku/outages.db
+        datasette publish heroku --name lgeku-outages lgeku/outages.db
