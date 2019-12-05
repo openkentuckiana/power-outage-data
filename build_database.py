@@ -38,14 +38,14 @@ def create_tables(db):
     db["cause"].create({"id": int, "name": str}, pk="id")
     db["comments"].create({"id": int, "name": str}, pk="id")
     db["outages"].create(
-        {"id": int, "outageStartTime": datetime.datetime, "latitude": str, "longitude": str,}, pk="id",
+        {"id": int, "outageStartTime": int, "latitude": str, "longitude": str}, pk="id",
     )
     db["outage_snapshots"].create(
         {
             "id": str,
             "outage": int,
             "snapshot": int,
-            "currentEtor": datetime.datetime,
+            "currentEtor": int,
             "estCustAffected": int,
             "latitude": str,
             "longitude": str,
@@ -79,7 +79,7 @@ def save_outage(db, outage, when, hash):
             "id": "{}:{}".format(int(datetime.datetime.timestamp(when)), outage_id),
             "outage": outage_id,
             "snapshot": snapshot_id,
-            "currentEtor": outage["etr"] if "etr" in outage else None,
+            "currentEtor": int(datetime.datetime.strptime(outage["etr"], "%Y-%m-%dT%H:%M:%S%z").timestamp()) if "etr" and outage["etr"] != "ETR-NULL" in outage else None,
             "estCustAffected": int(outage["cust_affected"]) if outage.get("cust_affected") else None,
             "latitude": outage["lat"],
             "longitude": outage["lng"],
@@ -119,6 +119,19 @@ if __name__ == "__main__":
     with db.conn:
         db.conn.executescript(
             """
+DROP VIEW IF EXISTS most_recent_snapshot;
+CREATE VIEW most_recent_snapshot as
+select
+    outage_snapshots.id, latitude, longitude, outage, estCustAffected,
+    cause.name as cause, crewCurrentStatus.name as crewCurrentStatus, comments.name as comments,
+    'https://lgeku-outages.herokuapp.com/outages/outage/' || outage as outage_url, currentEtor
+from outage_snapshots
+    join cause on outage_snapshots.cause = cause.id
+    join crewCurrentStatus on outage_snapshots.crewCurrentStatus = crewCurrentStatus.id
+    left join comments on outage_snapshots.comments = comments.id
+where
+    snapshot in (select id from snapshots order by id desc limit 1);   
+             
 DROP TABLE IF EXISTS outages_expanded;
 CREATE TABLE outages_expanded (
   outage INT PRIMARY KEY,
@@ -138,7 +151,7 @@ INSERT INTO outages_expanded SELECT
   max(snapshots.[when]) as latest,
   json_object("href", "https://lgeku-outages.herokuapp.com/outages/outage_snapshots?outage=" || outage, "label", count(outage_snapshots.id)) as num_snapshots,
   round(cast(max(snapshots.[when]) - min(snapshots.[when]) as float) / 3600, 2) as possible_duration_hours,
-  outage not in (select outage from outage_snapshots) as probably_ended,
+  outage not in (select outage from most_recent_snapshot) as probably_ended,
   min(outage_snapshots.estCustAffected) as min_estCustAffected,
   max(outage_snapshots.estCustAffected) as max_estCustAffected,
   min(outage_snapshots.latitude) as latitude,
@@ -148,5 +161,3 @@ from outage_snapshots
 group by outage;
         """
         )
-
-    repo = git.Repo(".", odbt=git.GitDB)

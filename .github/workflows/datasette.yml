@@ -32,4 +32,4 @@ jobs:
       run: |
         python build_database.py lgeku/outages.db
         heroku plugins:install heroku-builds
-        datasette publish heroku --name=lgeku-outages lgeku/outages.db
+        datasette publish heroku --name=lgeku-outages --install=datasette-cluster-map --install=datasette-vega lgeku/outages.db
