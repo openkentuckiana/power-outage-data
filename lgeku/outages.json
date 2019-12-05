@@ -1,17 +1,17 @@
 [
   {
-    "id": "19150400",
+    "id": "19150636",
     "cluster": false,
-    "etr": "ETR-EXP",
+    "etr": "ETR-NULL",
     "etr_confidence": null,
-    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
     "cause": "Working to determine cause",
     "number_out": 1,
-    "cust_affected": 30,
+    "cust_affected": 4,
     "crew_status": null,
-    "start_time": "2019-12-05T14:13:50Z",
-    "lat": 37.13589,
-    "lng": -88.00733
+    "start_time": "2019-12-05T16:29:49Z",
+    "lat": 37.12472,
+    "lng": -88.01494
   },
   {
     "id": "19150628",
@@ -42,18 +42,18 @@
     "lng": -84.58151
   },
   {
-    "id": "19150466",
+    "id": "19150634",
     "cluster": false,
-    "etr": "2019-12-05T18:00:00Z",
+    "etr": "2019-12-05T19:00:00Z",
     "etr_confidence": null,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
     "number_out": 1,
     "cust_affected": 4,
     "crew_status": null,
-    "start_time": "2019-12-05T14:44:49Z",
-    "lat": 38.71179,
-    "lng": -85.24861
+    "start_time": "2019-12-05T16:29:04Z",
+    "lat": 36.7652,
+    "lng": -83.70074
   },
   {
     "id": "19150551",
@@ -82,19 +82,5 @@
     "start_time": "2019-12-03T15:45:26Z",
     "lat": 36.84661,
     "lng": -83.31494
-  },
-  {
-    "id": "19150605",
-    "cluster": false,
-    "etr": "2019-12-05T18:00:00Z",
-    "etr_confidence": null,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "number_out": 1,
-    "cust_affected": 4,
-    "crew_status": null,
-    "start_time": "2019-12-05T15:34:23Z",
-    "lat": 38.12919,
-    "lng": -83.57044
   }
 ]
