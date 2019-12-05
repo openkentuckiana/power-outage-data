@@ -126,9 +126,9 @@ select
     cause.name as cause, crewCurrentStatus.name as crewCurrentStatus, comments.name as comments,
     'https://lgeku-outages.herokuapp.com/outages/outage/' || outage as outage_url, currentEtor
 from outage_snapshots
-    join cause on outage_snapshots.cause = cause.id
-    join crewCurrentStatus on outage_snapshots.crewCurrentStatus = crewCurrentStatus.id
+    left join cause on outage_snapshots.cause = cause.id
     left join comments on outage_snapshots.comments = comments.id
+    left join crewCurrentStatus on outage_snapshots.crewCurrentStatus = crewCurrentStatus.id
 where
     snapshot in (select id from snapshots order by id desc limit 1);   
              
