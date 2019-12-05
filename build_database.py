@@ -85,7 +85,7 @@ def save_outage(db, outage, when, hash):
             "longitude": outage["lng"],
             "cause": db["cause"].lookup({"name": outage["cause"]}),
             "comments": db["comments"].lookup({"name": outage["comments"]}),
-            "crewCurrentStatus": db["crewCurrentStatus"].lookup({"name": outage["crew_status"]}),
+            "crewCurrentStatus": db["crewCurrentStatus"].lookup({"name": outage["crew_status"]}) if outage.get("crew_status") else None,
         }
     )
 
