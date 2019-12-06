@@ -124,7 +124,7 @@ CREATE VIEW most_recent_snapshot as
 select
     outage_snapshots.id, latitude, longitude, outage, estCustAffected,
     cause.name as cause, crewCurrentStatus.name as crewCurrentStatus, comments.name as comments,
-    'https://lgeku-outages.herokuapp.com/outages/outage/' || outage as outage_url, currentEtor
+    'https://lgeku-outages.herokuapp.com/outages/outages/' || outage as outage_url, currentEtor
 from outage_snapshots
     left join cause on outage_snapshots.cause = cause.id
     left join comments on outage_snapshots.comments = comments.id
