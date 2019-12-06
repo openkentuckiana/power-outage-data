@@ -65,7 +65,12 @@ def save_outage(db, outage, when, hash):
         row = db["outages"].get(outage_id)
     except NotFoundError:
         db["outages"].insert(
-            {"id": outage_id, "outageStartTime": outage["start_time"], "latitude": outage["lat"], "longitude": outage["lng"],}
+            {
+                "id": outage_id,
+                "outageStartTime": outage["startTime"],
+                "latitude": outage["latitude"],
+                "longitude": outage["longitude"],
+            }
         )
     try:
         snapshot_id = list(db["snapshots"].rows_where("hash = ?", [hash]))[0]["id"]
@@ -79,13 +84,17 @@ def save_outage(db, outage, when, hash):
             "id": "{}:{}".format(int(datetime.datetime.timestamp(when)), outage_id),
             "outage": outage_id,
             "snapshot": snapshot_id,
-            "currentEtor": int(datetime.datetime.strptime(outage["etr"], "%Y-%m-%dT%H:%M:%S%z").timestamp()) if "etr" and outage["etr"] != "ETR-NULL" in outage else None,
-            "estCustAffected": int(outage["cust_affected"]) if outage.get("cust_affected") else None,
-            "latitude": outage["lat"],
-            "longitude": outage["lng"],
+            "currentEtor": int(datetime.datetime.strptime(outage["etr"], "%Y-%m-%dT%H:%M:%S%z").timestamp())
+            if "etr" and outage["etr"] != "ETR-NULL" in outage
+            else None,
+            "estCustAffected": int(outage["custAffected"]) if outage.get("custAffected") else None,
+            "latitude": outage["latitude"],
+            "longitude": outage["longitude"],
             "cause": db["cause"].lookup({"name": outage["cause"]}),
             "comments": db["comments"].lookup({"name": outage["comments"]}),
-            "crewCurrentStatus": db["crewCurrentStatus"].lookup({"name": outage["crew_status"]}) if outage.get("crew_status") else None,
+            "crewCurrentStatus": db["crewCurrentStatus"].lookup({"name": outage["crew_status"]})
+            if outage.get("crew_status")
+            else None,
         }
     )
 
