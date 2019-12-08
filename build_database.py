@@ -52,6 +52,7 @@ def create_tables(db):
             "comments": int,
             "cause": int,
             "crewCurrentStatus": int,
+            "source": str,
         },
         pk="id",
         foreign_keys=("snapshot", "outage", "crewCurrentStatus", "cause", "comments"),
@@ -95,6 +96,7 @@ def save_outage(db, outage, when, hash):
             "crewCurrentStatus": db["crewCurrentStatus"].lookup({"name": outage["crew_status"]})
             if outage.get("crew_status")
             else None,
+            "source": outage["source"],
         }
     )
 
