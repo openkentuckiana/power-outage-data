@@ -38,13 +38,14 @@ def create_tables(db):
     db["cause"].create({"id": int, "name": str}, pk="id")
     db["comments"].create({"id": int, "name": str}, pk="id")
     db["outages"].create(
-        {"id": int, "outageStartTime": int, "latitude": str, "longitude": str}, pk="id",
+        {"id": str, "outageStartTime": int, "latitude": str, "longitude": str}, pk="id",
     )
     db["outage_snapshots"].create(
         {
             "id": str,
             "outage": int,
             "snapshot": int,
+            "cluster": bool,
             "currentEtor": int,
             "estCustAffected": int,
             "latitude": str,
@@ -61,7 +62,7 @@ def create_tables(db):
 
 def save_outage(db, outage, when, hash):
     # If outage does not exist, save it first
-    outage_id = int(outage["id"])
+    outage_id = outage["id"]
     try:
         row = db["outages"].get(outage_id)
     except NotFoundError:
@@ -85,6 +86,7 @@ def save_outage(db, outage, when, hash):
             "id": "{}:{}".format(int(datetime.datetime.timestamp(when)), outage_id),
             "outage": outage_id,
             "snapshot": snapshot_id,
+            "cluster": outage.get("cluster", False),
             "currentEtor": int(datetime.datetime.strptime(outage["etr"], "%Y-%m-%dT%H:%M:%S%z").timestamp())
             if "etr" and outage["etr"] != "ETR-NULL" in outage
             else None,
@@ -133,7 +135,7 @@ if __name__ == "__main__":
 DROP VIEW IF EXISTS most_recent_snapshot;
 CREATE VIEW most_recent_snapshot as
 select
-    outage_snapshots.id, latitude, longitude, outage, estCustAffected,
+    outage_snapshots.id, latitude, longitude, outage, estCustAffected, cluster,
     cause.name as cause, crewCurrentStatus.name as crewCurrentStatus, comments.name as comments,
     'https://lgeku-outages.herokuapp.com/outages/outages/' || outage as outage_url, currentEtor
 from outage_snapshots
@@ -145,7 +147,7 @@ where
              
 DROP TABLE IF EXISTS outages_expanded;
 CREATE TABLE outages_expanded (
-  outage INT PRIMARY KEY,
+  outage STR PRIMARY KEY,
   earliest INT,
   latest INT,
   num_snapshots TEXT,
