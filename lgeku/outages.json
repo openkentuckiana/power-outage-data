@@ -1,20 +1,5 @@
 [
   {
-    "id": "19153913",
-    "etr": "2019-12-16T23:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Motor vehicle accident",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2019-12-16T04:45:04Z",
-    "latitude": 38.19954,
-    "longitude": -85.54228,
-    "source": "https://kubra.io/data/f7adf60a-e401-403f-90e5-29a11a214751/public/cluster-3/0320003.json"
-  },
-  {
     "id": "19154175",
     "etr": "2019-12-17T01:30:00Z",
     "etrConfidence": null,
@@ -27,7 +12,22 @@
     "startTime": "2019-12-16T21:46:29Z",
     "latitude": 37.12628,
     "longitude": -83.79423,
-    "source": "https://kubra.io/data/f7adf60a-e401-403f-90e5-29a11a214751/public/cluster-3/032001.json"
+    "source": "https://kubra.io/data/a7324314-ed43-4870-8d16-9461cee1332d/public/cluster-3/032001.json"
+  },
+  {
+    "id": "19153913",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "cause": "Motor vehicle accident",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2019-12-16T04:45:04Z",
+    "latitude": 38.19954,
+    "longitude": -85.54228,
+    "source": "https://kubra.io/data/a7324314-ed43-4870-8d16-9461cee1332d/public/cluster-3/0320003.json"
   },
   {
     "id": "19154168",
@@ -42,21 +42,21 @@
     "startTime": "2019-12-16T21:23:38Z",
     "latitude": 37.90151,
     "longitude": -84.70941,
-    "source": "https://kubra.io/data/f7adf60a-e401-403f-90e5-29a11a214751/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/a7324314-ed43-4870-8d16-9461cee1332d/public/cluster-3/032000.json"
   },
   {
-    "id": "19154066",
-    "etr": "2019-12-16T23:00:00Z",
+    "id": "19154183",
+    "etr": "2019-12-17T02:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Trees or limbs in lines",
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 5,
+    "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2019-12-16T17:05:22Z",
-    "latitude": 38.03588,
-    "longitude": -84.54467,
-    "source": "https://kubra.io/data/f7adf60a-e401-403f-90e5-29a11a214751/public/cluster-3/0320003.json"
+    "startTime": "2019-12-16T22:46:32Z",
+    "latitude": 38.1095,
+    "longitude": -85.79943,
+    "source": "https://kubra.io/data/a7324314-ed43-4870-8d16-9461cee1332d/public/cluster-3/0320003.json"
   }
 ]
