@@ -9,14 +9,29 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2019-12-21T12:15:34Z",
+    "startTime": "2019-12-21T13:41:00Z",
     "latitude": 37.68509,
     "longitude": -85.91643,
-    "source": "https://kubra.io/data/30260c75-ac43-4f37-8766-26a33602719b/public/cluster-3/03200032111003.json"
+    "source": "https://kubra.io/data/211eed31-dc55-448f-9a47-133485592df5/public/cluster-3/03200032111003.json"
   },
   {
     "id": "19155920",
-    "etr": "2019-12-21T16:00:00Z",
+    "etr": "2019-12-21T22:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2019-12-21T13:41:00Z",
+    "latitude": 37.68485,
+    "longitude": -85.91852,
+    "source": "https://kubra.io/data/211eed31-dc55-448f-9a47-133485592df5/public/cluster-3/03200032111003.json"
+  },
+  {
+    "id": "19155935",
+    "etr": "2019-12-21T16:30:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
@@ -24,25 +39,10 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2019-12-21T12:16:20Z",
-    "latitude": 37.68485,
-    "longitude": -85.91852,
-    "source": "https://kubra.io/data/30260c75-ac43-4f37-8766-26a33602719b/public/cluster-3/03200032111003.json"
-  },
-  {
-    "id": "19155925",
-    "etr": "2019-12-21T15:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2019-12-21T12:48:34Z",
-    "latitude": 37.73109,
-    "longitude": -84.3304,
-    "source": "https://kubra.io/data/30260c75-ac43-4f37-8766-26a33602719b/public/cluster-3/032001.json"
+    "startTime": "2019-12-21T13:43:15Z",
+    "latitude": 38.21186,
+    "longitude": -84.81034,
+    "source": "https://kubra.io/data/211eed31-dc55-448f-9a47-133485592df5/public/cluster-3/032000.json"
   },
   {
     "id": "19155923",
@@ -57,6 +57,6 @@
     "startTime": "2019-12-21T12:45:52Z",
     "latitude": 38.07268,
     "longitude": -84.46238,
-    "source": "https://kubra.io/data/30260c75-ac43-4f37-8766-26a33602719b/public/cluster-3/032000.json"
+    "source": "https://kubra.io/data/211eed31-dc55-448f-9a47-133485592df5/public/cluster-3/032000.json"
   }
 ]
