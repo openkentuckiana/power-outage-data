@@ -1,7 +1,22 @@
 [
   {
-    "id": "19157588",
-    "etr": "2019-12-30T05:30:00Z",
+    "id": "19157584",
+    "etr": "2019-12-30T06:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Unable to assess due to conditions",
+    "numberOut": 1,
+    "custAffected": 244,
+    "crewStatus": null,
+    "startTime": "2019-12-30T02:05:15Z",
+    "latitude": 37.12244,
+    "longitude": -84.07988,
+    "source": "https://kubra.io/data/fe45aea3-bebf-4d77-b2ad-6a580147cc7c/public/cluster-3/032001.json"
+  },
+  {
+    "id": "19157592",
+    "etr": "2019-12-30T04:30:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
@@ -9,24 +24,9 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2019-12-30T02:13:37Z",
-    "latitude": 38.23056,
-    "longitude": -85.8191,
-    "source": "https://kubra.io/data/51d37659-56a9-4020-a46b-98dff84e5ccb/public/cluster-3/032000.json"
-  },
-  {
-    "id": "19157584",
-    "etr": "2019-12-30T06:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 244,
-    "crewStatus": null,
-    "startTime": "2019-12-30T02:05:15Z",
-    "latitude": 37.12244,
-    "longitude": -84.07988,
-    "source": "https://kubra.io/data/51d37659-56a9-4020-a46b-98dff84e5ccb/public/cluster-3/032001.json"
+    "startTime": "2019-12-30T02:31:06Z",
+    "latitude": 38.00508,
+    "longitude": -84.20898,
+    "source": "https://kubra.io/data/fe45aea3-bebf-4d77-b2ad-6a580147cc7c/public/cluster-3/032001.json"
   }
 ]
