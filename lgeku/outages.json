@@ -12,7 +12,7 @@
     "startTime": "2019-12-31T11:18:23Z",
     "latitude": 37.49025,
     "longitude": -87.49713,
-    "source": "https://kubra.io/data/17eb4a25-8411-4ae2-89ca-97986167289d/public/cluster-3/03200023112203.json"
+    "source": "https://kubra.io/data/2d33b802-f511-46ec-9346-8fd0fe8439b8/public/cluster-3/03200023112203.json"
   },
   {
     "id": "19158347",
@@ -27,7 +27,7 @@
     "startTime": "2019-12-31T11:18:23Z",
     "latitude": 37.48898,
     "longitude": -87.49721,
-    "source": "https://kubra.io/data/17eb4a25-8411-4ae2-89ca-97986167289d/public/cluster-3/03200023112203.json"
+    "source": "https://kubra.io/data/2d33b802-f511-46ec-9346-8fd0fe8439b8/public/cluster-3/03200023112203.json"
   },
   {
     "id": "19158372",
@@ -42,14 +42,29 @@
     "startTime": "2019-12-31T12:58:52Z",
     "latitude": 37.09371,
     "longitude": -84.61908,
-    "source": "https://kubra.io/data/17eb4a25-8411-4ae2-89ca-97986167289d/public/cluster-3/032000.json"
+    "source": "https://kubra.io/data/2d33b802-f511-46ec-9346-8fd0fe8439b8/public/cluster-3/032000.json"
   },
   {
-    "id": "19158373",
+    "id": "19158380",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
     "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 28,
+    "crewStatus": null,
+    "startTime": "2019-12-31T13:07:31Z",
+    "latitude": 38.33367,
+    "longitude": -85.36368,
+    "source": "https://kubra.io/data/2d33b802-f511-46ec-9346-8fd0fe8439b8/public/cluster-3/032000.json"
+  },
+  {
+    "id": "19158373",
+    "etr": "2019-12-31T16:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
@@ -57,6 +72,6 @@
     "startTime": "2019-12-31T12:59:16Z",
     "latitude": 38.14941,
     "longitude": -85.82279,
-    "source": "https://kubra.io/data/17eb4a25-8411-4ae2-89ca-97986167289d/public/cluster-3/032000.json"
+    "source": "https://kubra.io/data/2d33b802-f511-46ec-9346-8fd0fe8439b8/public/cluster-3/032000.json"
   }
 ]
