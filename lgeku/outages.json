@@ -1,50 +1,5 @@
 [
   {
-    "id": "20003574",
-    "etr": "ETR-EXP",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
-    "cause": "Trees or limbs in lines",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-01-11T18:16:20Z",
-    "latitude": 37.15642,
-    "longitude": -83.75399,
-    "source": "https://kubra.io/data/8a3c41a7-58cc-4ad2-8813-16f2ca6804c0/public/cluster-3/032001.json"
-  },
-  {
-    "id": "20005149",
-    "etr": "ETR-EXP",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
-    "cause": "Scheduled maintenance",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-01-13T20:43:59Z",
-    "latitude": 36.96877,
-    "longitude": -84.07556,
-    "source": "https://kubra.io/data/8a3c41a7-58cc-4ad2-8813-16f2ca6804c0/public/cluster-3/032001.json"
-  },
-  {
-    "id": "20005210",
-    "etr": "2020-01-14T03:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 13,
-    "crewStatus": null,
-    "startTime": "2020-01-13T23:15:03Z",
-    "latitude": 38.25097,
-    "longitude": -85.59494,
-    "source": "https://kubra.io/data/8a3c41a7-58cc-4ad2-8813-16f2ca6804c0/public/cluster-3/03200031.json"
-  },
-  {
     "id": "20005243",
     "etr": "2020-01-14T06:00:00Z",
     "etrConfidence": null,
@@ -57,7 +12,7 @@
     "startTime": "2020-01-14T02:04:34Z",
     "latitude": 38.1319,
     "longitude": -85.63285,
-    "source": "https://kubra.io/data/8a3c41a7-58cc-4ad2-8813-16f2ca6804c0/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/data/cd259b15-b496-4c69-958d-8e895ff02e26/public/cluster-3/032000.json"
   },
   {
     "id": "20005242",
@@ -72,6 +27,36 @@
     "startTime": "2020-01-14T01:59:35Z",
     "latitude": 38.22838,
     "longitude": -84.5301,
-    "source": "https://kubra.io/data/8a3c41a7-58cc-4ad2-8813-16f2ca6804c0/public/cluster-3/032000.json"
+    "source": "https://kubra.io/data/cd259b15-b496-4c69-958d-8e895ff02e26/public/cluster-3/032000.json"
+  },
+  {
+    "id": "20003574",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "cause": "Trees or limbs in lines",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-01-11T18:16:20Z",
+    "latitude": 37.15642,
+    "longitude": -83.75399,
+    "source": "https://kubra.io/data/cd259b15-b496-4c69-958d-8e895ff02e26/public/cluster-3/032001.json"
+  },
+  {
+    "id": "20005149",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-01-13T20:43:59Z",
+    "latitude": 36.96877,
+    "longitude": -84.07556,
+    "source": "https://kubra.io/data/cd259b15-b496-4c69-958d-8e895ff02e26/public/cluster-3/032001.json"
   }
 ]
