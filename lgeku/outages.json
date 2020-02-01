@@ -1,35 +1,5 @@
 [
   {
-    "id": "20010335",
-    "etr": "2020-02-01T16:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Scheduled maintenance",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-02-01T13:04:03Z",
-    "latitude": 38.0803,
-    "longitude": -84.52665,
-    "source": "https://kubra.io/data/b74c45cc-fe13-4254-b2d2-fa8c4d7068a3/public/cluster-3/032000.json"
-  },
-  {
-    "id": "20010343",
-    "etr": "2020-02-01T17:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-02-01T13:33:55Z",
-    "latitude": 38.22554,
-    "longitude": -85.72141,
-    "source": "https://kubra.io/data/b74c45cc-fe13-4254-b2d2-fa8c4d7068a3/public/cluster-3/032000312000.json"
-  },
-  {
     "id": "20010340",
     "etr": "2020-02-01T20:30:00Z",
     "etrConfidence": null,
@@ -42,7 +12,7 @@
     "startTime": "2020-02-01T13:29:36Z",
     "latitude": 38.24805,
     "longitude": -85.77372,
-    "source": "https://kubra.io/data/b74c45cc-fe13-4254-b2d2-fa8c4d7068a3/public/cluster-3/03200031200002.json"
+    "source": "https://kubra.io/data/66ab1ef7-6335-4d23-8e5c-986f9f405313/public/cluster-3/03200031200002.json"
   },
   {
     "id": "20010339",
@@ -57,6 +27,21 @@
     "startTime": "2020-02-01T13:29:28Z",
     "latitude": 38.24771,
     "longitude": -85.77357,
-    "source": "https://kubra.io/data/b74c45cc-fe13-4254-b2d2-fa8c4d7068a3/public/cluster-3/03200031200002.json"
+    "source": "https://kubra.io/data/66ab1ef7-6335-4d23-8e5c-986f9f405313/public/cluster-3/03200031200002.json"
+  },
+  {
+    "id": "20010335",
+    "etr": "2020-02-01T16:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-02-01T13:04:03Z",
+    "latitude": 38.0803,
+    "longitude": -84.52665,
+    "source": "https://kubra.io/data/66ab1ef7-6335-4d23-8e5c-986f9f405313/public/cluster-3/032000.json"
   }
 ]
