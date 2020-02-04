@@ -1,20 +1,5 @@
 [
   {
-    "id": "20010743",
-    "etr": "2020-02-04T03:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-02-04T00:25:36Z",
-    "latitude": 38.70722,
-    "longitude": -85.25877,
-    "source": "https://kubra.io/data/a6cd4a74-8f98-41e3-a986-2f2eb5b21595/public/cluster-3/032000.json"
-  },
-  {
     "id": "20010729",
     "etr": "2020-02-04T01:30:00Z",
     "etrConfidence": null,
@@ -27,6 +12,36 @@
     "startTime": "2020-02-03T22:23:29Z",
     "latitude": 38.1236,
     "longitude": -85.79909,
-    "source": "https://kubra.io/data/a6cd4a74-8f98-41e3-a986-2f2eb5b21595/public/cluster-3/032000.json"
+    "source": "https://kubra.io/data/84c7eccd-0f6b-440a-81e8-e360097e781b/public/cluster-3/03200030.json"
+  },
+  {
+    "id": "20010744",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-02-04T00:57:44Z",
+    "latitude": 38.19939,
+    "longitude": -85.66281,
+    "source": "https://kubra.io/data/84c7eccd-0f6b-440a-81e8-e360097e781b/public/cluster-3/03200031.json"
+  },
+  {
+    "id": "20010743",
+    "etr": "2020-02-04T03:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-02-04T00:25:36Z",
+    "latitude": 38.70722,
+    "longitude": -85.25877,
+    "source": "https://kubra.io/data/84c7eccd-0f6b-440a-81e8-e360097e781b/public/cluster-3/032000.json"
   }
 ]
