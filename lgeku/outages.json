@@ -1,35 +1,5 @@
 [
   {
-    "id": "20011636",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Unable to assess due to flooding",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-02-06T19:45:35Z",
-    "latitude": 36.72906,
-    "longitude": -84.16489,
-    "source": "https://kubra.io/data/5063aaf6-c5c8-4ac6-a8ce-0973242ca571/public/cluster-3/032001.json"
-  },
-  {
-    "id": "20012557",
-    "etr": "2020-02-11T03:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Unable to determine",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-02-10T23:41:11Z",
-    "latitude": 38.21591,
-    "longitude": -85.45797,
-    "source": "https://kubra.io/data/5063aaf6-c5c8-4ac6-a8ce-0973242ca571/public/cluster-3/03200031.json"
-  },
-  {
     "id": "20012115",
     "etr": "ETR-NULL",
     "etrConfidence": null,
@@ -42,7 +12,7 @@
     "startTime": "2020-02-08T20:36:14Z",
     "latitude": 38.27575,
     "longitude": -84.76616,
-    "source": "https://kubra.io/data/5063aaf6-c5c8-4ac6-a8ce-0973242ca571/public/cluster-3/032000.json"
+    "source": "https://kubra.io/data/806b1e20-8943-4762-bb47-1cca5c99f9a0/public/cluster-3/032000.json"
   },
   {
     "id": "20012491",
@@ -57,6 +27,36 @@
     "startTime": "2020-02-10T19:23:20Z",
     "latitude": 38.33863,
     "longitude": -85.46585,
-    "source": "https://kubra.io/data/5063aaf6-c5c8-4ac6-a8ce-0973242ca571/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/data/806b1e20-8943-4762-bb47-1cca5c99f9a0/public/cluster-3/032000.json"
+  },
+  {
+    "id": "20012570",
+    "etr": "2020-02-11T04:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-02-11T01:02:24Z",
+    "latitude": 38.03047,
+    "longitude": -84.52502,
+    "source": "https://kubra.io/data/806b1e20-8943-4762-bb47-1cca5c99f9a0/public/cluster-3/032000.json"
+  },
+  {
+    "id": "20011636",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Unable to assess due to flooding",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-02-06T19:45:35Z",
+    "latitude": 36.72906,
+    "longitude": -84.16489,
+    "source": "https://kubra.io/data/806b1e20-8943-4762-bb47-1cca5c99f9a0/public/cluster-3/032001.json"
   }
 ]
