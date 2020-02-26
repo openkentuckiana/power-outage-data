@@ -1,5 +1,20 @@
 [
   {
+    "id": "20016643",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-02-26T01:20:30Z",
+    "latitude": 36.86465,
+    "longitude": -82.76162,
+    "source": "https://kubra.io/data/6ba97002-0752-4b12-bac7-3c940a3a225b/public/cluster-3/0320012.json"
+  },
+  {
     "id": "20016640",
     "etr": "2020-02-26T04:00:00Z",
     "etrConfidence": null,
@@ -12,29 +27,14 @@
     "startTime": "2020-02-26T00:49:47Z",
     "latitude": 36.63131,
     "longitude": -83.50792,
-    "source": "https://kubra.io/data/023756b8-b431-4af2-b42e-2496d39add3e/public/cluster-3/0320012.json"
-  },
-  {
-    "id": "20016625",
-    "etr": "2020-02-26T02:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Scheduled maintenance",
-    "numberOut": 1,
-    "custAffected": 8,
-    "crewStatus": null,
-    "startTime": "2020-02-25T22:25:26Z",
-    "latitude": 37.49317,
-    "longitude": -86.24032,
-    "source": "https://kubra.io/data/023756b8-b431-4af2-b42e-2496d39add3e/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/6ba97002-0752-4b12-bac7-3c940a3a225b/public/cluster-3/0320012.json"
   },
   {
     "id": "20016642",
-    "etr": "ETR-NULL",
+    "etr": "2020-02-26T04:00:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
@@ -42,7 +42,7 @@
     "startTime": "2020-02-26T01:08:32Z",
     "latitude": 38.08445,
     "longitude": -85.6431,
-    "source": "https://kubra.io/data/023756b8-b431-4af2-b42e-2496d39add3e/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/6ba97002-0752-4b12-bac7-3c940a3a225b/public/cluster-3/0320003.json"
   },
   {
     "id": "20016641",
@@ -57,6 +57,6 @@
     "startTime": "2020-02-26T00:57:01Z",
     "latitude": 38.31586,
     "longitude": -84.72303,
-    "source": "https://kubra.io/data/023756b8-b431-4af2-b42e-2496d39add3e/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/6ba97002-0752-4b12-bac7-3c940a3a225b/public/cluster-3/0320003.json"
   }
 ]
