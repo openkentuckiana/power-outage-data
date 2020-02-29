@@ -1,20 +1,5 @@
 [
   {
-    "id": "20017240",
-    "etr": "2020-02-29T08:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Damaged underground equipment",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-02-29T00:31:32Z",
-    "latitude": 38.00962,
-    "longitude": -84.46957,
-    "source": "https://kubra.io/data/062225d2-42d8-4e1c-8eeb-faa45ca1aa34/public/cluster-3/0320003.json"
-  },
-  {
     "id": "20017259",
     "etr": "2020-02-29T07:30:00Z",
     "etrConfidence": null,
@@ -27,6 +12,36 @@
     "startTime": "2020-02-29T03:53:56Z",
     "latitude": 38.22201,
     "longitude": -85.79168,
-    "source": "https://kubra.io/data/062225d2-42d8-4e1c-8eeb-faa45ca1aa34/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/d0e2c63f-430a-4274-9dd7-61bc5900bc31/public/cluster-3/03200030.json"
+  },
+  {
+    "id": "20017262",
+    "etr": "2020-02-29T08:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-02-29T04:27:59Z",
+    "latitude": 38.15491,
+    "longitude": -85.6596,
+    "source": "https://kubra.io/data/d0e2c63f-430a-4274-9dd7-61bc5900bc31/public/cluster-3/03200031.json"
+  },
+  {
+    "id": "20017240",
+    "etr": "2020-02-29T08:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Damaged underground equipment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-02-29T00:31:32Z",
+    "latitude": 38.00962,
+    "longitude": -84.46957,
+    "source": "https://kubra.io/data/d0e2c63f-430a-4274-9dd7-61bc5900bc31/public/cluster-3/0320003.json"
   }
 ]
