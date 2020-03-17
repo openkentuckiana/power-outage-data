@@ -1,5 +1,20 @@
 [
   {
+    "id": "20022023",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-03-17T13:07:15Z",
+    "latitude": 38.10434,
+    "longitude": -84.49876,
+    "source": "https://kubra.io/data/6c4f2756-ba00-436c-9904-60c7f35dd791/public/cluster-3/0320003.json"
+  },
+  {
     "id": "20022013",
     "etr": "2020-03-17T20:00:00Z",
     "etrConfidence": null,
@@ -12,6 +27,6 @@
     "startTime": "2020-03-17T12:32:10Z",
     "latitude": 38.07071,
     "longitude": -85.82826,
-    "source": "https://kubra.io/data/433f49c5-ddd2-4f73-98c9-a42a6d4d72ae/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/6c4f2756-ba00-436c-9904-60c7f35dd791/public/cluster-3/0320003.json"
   }
 ]
