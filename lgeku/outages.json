@@ -1,20 +1,5 @@
 [
   {
-    "id": "20024539",
-    "etr": "2020-03-27T19:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 29,
-    "crewStatus": null,
-    "startTime": "2020-03-26T19:10:44Z",
-    "latitude": 37.06618,
-    "longitude": -89.09303,
-    "source": "https://kubra.io/data/c852faf9-35e2-499a-a9b8-ad29315ba463/public/cluster-3/0320002.json"
-  },
-  {
     "id": "20024621",
     "etr": "2020-03-27T08:00:00Z",
     "etrConfidence": null,
@@ -27,6 +12,36 @@
     "startTime": "2020-03-27T02:00:14Z",
     "latitude": 36.77938,
     "longitude": -83.39476,
-    "source": "https://kubra.io/data/c852faf9-35e2-499a-a9b8-ad29315ba463/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/data/3e7cf56b-a5cd-4e2d-96e0-c46474c6325c/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "20024632",
+    "etr": "2020-03-27T06:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Unable to assess due to conditions",
+    "numberOut": 1,
+    "custAffected": 8,
+    "crewStatus": null,
+    "startTime": "2020-03-27T05:43:21Z",
+    "latitude": 37.75195,
+    "longitude": -84.85536,
+    "source": "https://kubra.io/data/3e7cf56b-a5cd-4e2d-96e0-c46474c6325c/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "20024539",
+    "etr": "2020-03-27T19:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 29,
+    "crewStatus": null,
+    "startTime": "2020-03-26T19:10:44Z",
+    "latitude": 37.06618,
+    "longitude": -89.09303,
+    "source": "https://kubra.io/data/3e7cf56b-a5cd-4e2d-96e0-c46474c6325c/public/cluster-3/0320002.json"
   }
 ]
