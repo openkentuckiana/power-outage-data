@@ -1,10 +1,10 @@
 [
   {
     "id": "20027114",
-    "etr": "2020-04-03T14:30:00Z",
+    "etr": "2020-04-03T18:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
     "cause": "Scheduled maintenance",
     "numberOut": 1,
     "custAffected": 4,
@@ -12,7 +12,22 @@
     "startTime": "2020-04-03T11:54:26Z",
     "latitude": 36.96563,
     "longitude": -82.58494,
-    "source": "https://kubra.io/data/22b977e5-9b86-4e94-a6b8-b66c34d086e1/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/data/efe3c89e-9249-4b84-9dd7-610c81adc682/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "20027123",
+    "etr": "2020-04-03T15:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-04-03T12:34:08Z",
+    "latitude": 37.56232,
+    "longitude": -85.76203,
+    "source": "https://kubra.io/data/efe3c89e-9249-4b84-9dd7-610c81adc682/public/cluster-3/0320003.json"
   },
   {
     "id": "20027119",
@@ -27,7 +42,7 @@
     "startTime": "2020-04-03T12:18:59Z",
     "latitude": 38.06371,
     "longitude": -84.72645,
-    "source": "https://kubra.io/data/22b977e5-9b86-4e94-a6b8-b66c34d086e1/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/efe3c89e-9249-4b84-9dd7-610c81adc682/public/cluster-3/0320003.json"
   },
   {
     "id": "20027120",
@@ -42,6 +57,6 @@
     "startTime": "2020-04-03T12:23:19Z",
     "latitude": 38.23946,
     "longitude": -85.79264,
-    "source": "https://kubra.io/data/22b977e5-9b86-4e94-a6b8-b66c34d086e1/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/efe3c89e-9249-4b84-9dd7-610c81adc682/public/cluster-3/0320003.json"
   }
 ]
