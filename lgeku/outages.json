@@ -12,37 +12,7 @@
     "startTime": "2020-04-06T19:18:20Z",
     "latitude": 37.64716,
     "longitude": -84.74641,
-    "source": "https://kubra.io/data/9d5fc964-514a-4393-ae98-fb0861fef0f4/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "20027898",
-    "etr": "2020-04-06T23:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Scheduled maintenance",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-04-06T21:07:14Z",
-    "latitude": 37.20677,
-    "longitude": -87.18027,
-    "source": "https://kubra.io/data/9d5fc964-514a-4393-ae98-fb0861fef0f4/public/cluster-3/03200032022202.json"
-  },
-  {
-    "id": "20027897",
-    "etr": "ETR-EXP",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
-    "cause": "Scheduled maintenance",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-04-06T21:07:04Z",
-    "latitude": 37.20707,
-    "longitude": -87.17955,
-    "source": "https://kubra.io/data/9d5fc964-514a-4393-ae98-fb0861fef0f4/public/cluster-3/03200032022202.json"
+    "source": "https://kubra.io/data/8e9bfe09-6629-447a-b882-af1a73364ea0/public/cluster-3/0320003.json"
   },
   {
     "id": "20027854",
@@ -57,6 +27,21 @@
     "startTime": "2020-04-06T18:38:17Z",
     "latitude": 38.35357,
     "longitude": -85.60285,
-    "source": "https://kubra.io/data/9d5fc964-514a-4393-ae98-fb0861fef0f4/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/8e9bfe09-6629-447a-b882-af1a73364ea0/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "20027911",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-04-06T23:24:12Z",
+    "latitude": 38.24186,
+    "longitude": -85.81024,
+    "source": "https://kubra.io/data/8e9bfe09-6629-447a-b882-af1a73364ea0/public/cluster-3/0320003.json"
   }
 ]
