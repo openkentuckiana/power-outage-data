@@ -1,7 +1,7 @@
 [
   {
     "id": "20044549",
-    "etr": "2020-05-20T13:30:00Z",
+    "etr": "2020-05-20T14:30:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
@@ -12,21 +12,36 @@
     "startTime": "2020-05-20T03:52:25Z",
     "latitude": 36.79211,
     "longitude": -83.7396,
-    "source": "https://kubra.io/data/82b3e93a-4ff3-43df-9c23-9424a2ba5cea/public/cluster-3/0320012223.json"
+    "source": "https://kubra.io/data/ad21ecbd-a067-4983-966d-650012df76ff/public/cluster-3/032001222.json"
   },
   {
-    "id": "20044584",
-    "etr": "2020-05-20T12:00:00Z",
+    "id": "20044590",
+    "etr": "2020-05-20T14:00:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Working to determine cause",
+    "cause": "Scheduled maintenance",
     "numberOut": 1,
-    "custAffected": 17,
+    "custAffected": 6,
     "crewStatus": null,
-    "startTime": "2020-05-20T06:52:15Z",
-    "latitude": 36.77783,
-    "longitude": -83.75723,
-    "source": "https://kubra.io/data/82b3e93a-4ff3-43df-9c23-9424a2ba5cea/public/cluster-3/0320012223.json"
+    "startTime": "2020-05-20T11:40:49Z",
+    "latitude": 37.1296,
+    "longitude": -84.08334,
+    "source": "https://kubra.io/data/ad21ecbd-a067-4983-966d-650012df76ff/public/cluster-3/03200122201103.json"
+  },
+  {
+    "id": "20044591",
+    "etr": "2020-05-20T14:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-05-20T11:41:56Z",
+    "latitude": 37.12988,
+    "longitude": -84.0835,
+    "source": "https://kubra.io/data/ad21ecbd-a067-4983-966d-650012df76ff/public/cluster-3/03200122201103.json"
   }
 ]
