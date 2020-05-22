@@ -1,5 +1,20 @@
 [
   {
+    "id": "20045242",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-05-22T07:20:56Z",
+    "latitude": 36.74681,
+    "longitude": -83.64723,
+    "source": "https://kubra.io/data/25d8b781-c6b8-47e0-9403-2204248f87a8/public/cluster-3/0320012.json"
+  },
+  {
     "id": "20045240",
     "etr": "2020-05-22T10:00:00Z",
     "etrConfidence": null,
@@ -12,14 +27,14 @@
     "startTime": "2020-05-22T06:58:09Z",
     "latitude": 38.18207,
     "longitude": -83.42663,
-    "source": "https://kubra.io/data/e45c1bd3-b478-4073-bfe2-4c0ac0ffebd4/public/cluster-3/03200120301213.json"
+    "source": "https://kubra.io/data/25d8b781-c6b8-47e0-9403-2204248f87a8/public/cluster-3/03200120301213.json"
   },
   {
     "id": "20045241",
-    "etr": "ETR-NULL",
+    "etr": "2020-05-22T10:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
@@ -27,6 +42,6 @@
     "startTime": "2020-05-22T07:03:15Z",
     "latitude": 38.18233,
     "longitude": -83.42736,
-    "source": "https://kubra.io/data/e45c1bd3-b478-4073-bfe2-4c0ac0ffebd4/public/cluster-3/03200120301213.json"
+    "source": "https://kubra.io/data/25d8b781-c6b8-47e0-9403-2204248f87a8/public/cluster-3/03200120301213.json"
   }
 ]
