@@ -1,6 +1,6 @@
 [
   {
-    "id": "20046429",
+    "id": "20046433",
     "etr": "2020-05-25T14:00:00Z",
     "etrConfidence": null,
     "cluster": false,
@@ -9,9 +9,24 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
+    "startTime": "2020-05-25T11:17:02Z",
+    "latitude": 36.74959,
+    "longitude": -84.15914,
+    "source": "https://kubra.io/data/38cd268b-46f8-41a9-840f-f6eba1f91283/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "20046429",
+    "etr": "2020-05-25T13:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Damaged equipment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
     "startTime": "2020-05-25T10:39:52Z",
     "latitude": 37.99636,
     "longitude": -84.21414,
-    "source": "https://kubra.io/data/7d01b012-3a4b-4890-97ed-4e216b85be5f/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/data/38cd268b-46f8-41a9-840f-f6eba1f91283/public/cluster-3/0320012.json"
   }
 ]
