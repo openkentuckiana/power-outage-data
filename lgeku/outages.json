@@ -1,20 +1,5 @@
 [
   {
-    "id": "20047703",
-    "etr": "2020-05-27T23:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Scheduled maintenance",
-    "numberOut": 1,
-    "custAffected": 6,
-    "crewStatus": null,
-    "startTime": "2020-05-27T20:32:57Z",
-    "latitude": 36.61582,
-    "longitude": -83.71379,
-    "source": "https://kubra.io/data/398b27b0-b4ac-4ef9-9b01-4517a694658f/public/cluster-3/03200122.json"
-  },
-  {
     "id": "20047723",
     "etr": "2020-05-28T01:00:00Z",
     "etrConfidence": null,
@@ -27,37 +12,22 @@
     "startTime": "2020-05-27T21:23:06Z",
     "latitude": 38.27198,
     "longitude": -85.61541,
-    "source": "https://kubra.io/data/398b27b0-b4ac-4ef9-9b01-4517a694658f/public/cluster-3/0320003120.json"
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/03200031200111.json"
   },
   {
-    "id": "20047649",
-    "etr": "2020-05-27T23:00:00Z",
+    "id": "20047742",
+    "etr": "2020-05-27T23:30:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Working to determine cause",
+    "cause": "Damaged equipment",
     "numberOut": 1,
-    "custAffected": 4,
+    "custAffected": 10,
     "crewStatus": null,
-    "startTime": "2020-05-27T18:38:50Z",
-    "latitude": 37.98888,
-    "longitude": -84.43912,
-    "source": "https://kubra.io/data/398b27b0-b4ac-4ef9-9b01-4517a694658f/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "20047660",
-    "etr": "2020-05-28T00:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-05-27T18:53:30Z",
-    "latitude": 38.10653,
-    "longitude": -84.73825,
-    "source": "https://kubra.io/data/398b27b0-b4ac-4ef9-9b01-4517a694658f/public/cluster-3/0320003.json"
+    "startTime": "2020-05-27T22:39:16Z",
+    "latitude": 38.27257,
+    "longitude": -85.61669,
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/03200031200111.json"
   },
   {
     "id": "20047627",
@@ -72,14 +42,29 @@
     "startTime": "2020-05-27T17:52:42Z",
     "latitude": 38.19409,
     "longitude": -85.81128,
-    "source": "https://kubra.io/data/398b27b0-b4ac-4ef9-9b01-4517a694658f/public/cluster-3/03200030.json"
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/032000303.json"
   },
   {
-    "id": "20047740",
+    "id": "20047744",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
     "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-05-27T22:40:24Z",
+    "latitude": 38.24054,
+    "longitude": -85.79736,
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/032000303.json"
+  },
+  {
+    "id": "20047740",
+    "etr": "2020-05-28T02:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 10,
@@ -87,7 +72,7 @@
     "startTime": "2020-05-27T22:21:09Z",
     "latitude": 38.10778,
     "longitude": -85.7691,
-    "source": "https://kubra.io/data/398b27b0-b4ac-4ef9-9b01-4517a694658f/public/cluster-3/0320003120.json"
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/0320003120.json"
   },
   {
     "id": "20047573",
@@ -102,22 +87,52 @@
     "startTime": "2020-05-27T16:45:35Z",
     "latitude": 38.07796,
     "longitude": -85.78201,
-    "source": "https://kubra.io/data/398b27b0-b4ac-4ef9-9b01-4517a694658f/public/cluster-3/0320003120.json"
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/0320003120.json"
+  },
+  {
+    "id": "20047649",
+    "etr": "2020-05-28T00:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-05-27T18:38:50Z",
+    "latitude": 37.98888,
+    "longitude": -84.43912,
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "20047660",
+    "etr": "2020-05-28T00:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-05-27T18:53:30Z",
+    "latitude": 38.10653,
+    "longitude": -84.73825,
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/0320003.json"
   },
   {
     "id": "20047738",
     "etr": "2020-05-28T00:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Motor vehicle accident",
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
     "startTime": "2020-05-27T22:14:06Z",
     "latitude": 37.37859,
     "longitude": -87.2467,
-    "source": "https://kubra.io/data/398b27b0-b4ac-4ef9-9b01-4517a694658f/public/cluster-3/0320002.json"
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/0320002.json"
   },
   {
     "id": "20047721",
@@ -132,6 +147,6 @@
     "startTime": "2020-05-27T21:20:49Z",
     "latitude": 37.2188,
     "longitude": -87.44805,
-    "source": "https://kubra.io/data/398b27b0-b4ac-4ef9-9b01-4517a694658f/public/cluster-3/0320002.json"
+    "source": "https://kubra.io/data/ced36489-177f-4bc9-bd14-4d8040f6d38c/public/cluster-3/0320002.json"
   }
 ]
