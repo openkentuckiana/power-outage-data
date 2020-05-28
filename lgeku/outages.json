@@ -1,20 +1,5 @@
 [
   {
-    "id": "20048023",
-    "etr": "2020-05-28T13:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Motor vehicle accident",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-05-28T04:00:59Z",
-    "latitude": 36.86778,
-    "longitude": -82.74501,
-    "source": "https://kubra.io/data/e6f507af-056d-4637-8607-64b13391a23f/public/cluster-3/0320012.json"
-  },
-  {
     "id": "20048053",
     "etr": "2020-05-28T14:30:00Z",
     "etrConfidence": null,
@@ -27,7 +12,7 @@
     "startTime": "2020-05-28T10:34:34Z",
     "latitude": 38.27622,
     "longitude": -85.5147,
-    "source": "https://kubra.io/data/e6f507af-056d-4637-8607-64b13391a23f/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/c52c940e-615c-49f1-a0c1-d50423c8407a/public/cluster-3/03200031.json"
   },
   {
     "id": "20048051",
@@ -42,6 +27,21 @@
     "startTime": "2020-05-28T10:33:15Z",
     "latitude": 37.96246,
     "longitude": -84.47776,
-    "source": "https://kubra.io/data/e6f507af-056d-4637-8607-64b13391a23f/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/c52c940e-615c-49f1-a0c1-d50423c8407a/public/cluster-3/03200031.json"
+  },
+  {
+    "id": "20048056",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 29,
+    "crewStatus": null,
+    "startTime": "2020-05-28T11:09:05Z",
+    "latitude": 38.05703,
+    "longitude": -84.4586,
+    "source": "https://kubra.io/data/c52c940e-615c-49f1-a0c1-d50423c8407a/public/cluster-3/03200031.json"
   }
 ]
