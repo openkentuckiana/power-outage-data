@@ -1,6 +1,21 @@
 [
   {
     "id": "20051982",
+    "etr": "2020-06-07T19:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Damaged equipment",
+    "numberOut": 1,
+    "custAffected": 11,
+    "crewStatus": null,
+    "startTime": "2020-06-07T08:30:08Z",
+    "latitude": 36.89052,
+    "longitude": -83.60329,
+    "source": "https://kubra.io/data/3b7d0ade-b6e3-4d85-a86b-4898141c57d9/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "20051985",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
@@ -9,9 +24,24 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2020-06-07T08:30:08Z",
-    "latitude": 36.8874,
-    "longitude": -83.60631,
-    "source": "https://kubra.io/data/c6b1a381-5845-4183-ad9a-117331d9bf1d/public/cluster-3/0320012.json"
+    "startTime": "2020-06-07T10:21:40Z",
+    "latitude": 38.59614,
+    "longitude": -83.85425,
+    "source": "https://kubra.io/data/3b7d0ade-b6e3-4d85-a86b-4898141c57d9/public/cluster-3/03200120012.json"
+  },
+  {
+    "id": "20051988",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-06-07T10:23:56Z",
+    "latitude": 38.6083,
+    "longitude": -83.83997,
+    "source": "https://kubra.io/data/3b7d0ade-b6e3-4d85-a86b-4898141c57d9/public/cluster-3/03200120013.json"
   }
 ]
