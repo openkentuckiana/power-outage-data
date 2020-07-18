@@ -1,6 +1,6 @@
 [
   {
-    "id": "20073595",
+    "id": "20073598",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
@@ -9,9 +9,24 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
+    "startTime": "2020-07-18T10:51:44Z",
+    "latitude": 37.57297,
+    "longitude": -85.29515,
+    "source": "https://kubra.io/data/a56438a6-c2f0-4141-9983-6a39eeb9396c/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "20073595",
+    "etr": "2020-07-18T14:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 63,
+    "crewStatus": null,
     "startTime": "2020-07-18T10:35:00Z",
-    "latitude": 38.0416,
-    "longitude": -84.45761,
-    "source": "https://kubra.io/data/4f5a5c45-33e3-4911-90a7-4f99b27cdacf/public/cluster-3/0320003.json"
+    "latitude": 38.041,
+    "longitude": -84.45679,
+    "source": "https://kubra.io/data/a56438a6-c2f0-4141-9983-6a39eeb9396c/public/cluster-3/0320003.json"
   }
 ]
