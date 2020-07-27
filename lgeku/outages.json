@@ -1,10 +1,25 @@
 [
   {
-    "id": "20077398",
-    "etr": "ETR-EXP",
+    "id": "20077471",
+    "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-07-27T03:52:55Z",
+    "latitude": 38.48748,
+    "longitude": -83.79146,
+    "source": "https://kubra.io/data/4f0aca3d-901a-41be-81c1-b9b9e90600c3/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "20077398",
+    "etr": "2020-07-27T05:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
     "cause": "Unable to determine",
     "numberOut": 1,
     "custAffected": 4,
@@ -12,14 +27,14 @@
     "startTime": "2020-07-26T22:10:56Z",
     "latitude": 38.27793,
     "longitude": -84.69949,
-    "source": "https://kubra.io/data/55828430-5fda-44c3-8a03-0cf322af9c91/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/4f0aca3d-901a-41be-81c1-b9b9e90600c3/public/cluster-3/0320003.json"
   },
   {
     "id": "20077431",
-    "etr": "ETR-EXP",
+    "etr": "2020-07-27T05:00:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
@@ -27,6 +42,6 @@
     "startTime": "2020-07-27T00:19:13Z",
     "latitude": 37.98977,
     "longitude": -84.46465,
-    "source": "https://kubra.io/data/55828430-5fda-44c3-8a03-0cf322af9c91/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/4f0aca3d-901a-41be-81c1-b9b9e90600c3/public/cluster-3/0320003.json"
   }
 ]
