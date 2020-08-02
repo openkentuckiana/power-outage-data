@@ -12,7 +12,7 @@
     "startTime": "2020-08-01T20:56:49Z",
     "latitude": 36.97594,
     "longitude": -82.6503,
-    "source": "https://kubra.io/data/7484a2ec-25b8-4615-9a98-151fd53a7532/public/cluster-3/03200123203.json"
+    "source": "https://kubra.io/data/e01ec370-1e3f-4ea2-8b8f-0586f58f9b83/public/cluster-3/03200123203.json"
   },
   {
     "id": "20080030",
@@ -27,7 +27,7 @@
     "startTime": "2020-08-01T19:45:38Z",
     "latitude": 36.96553,
     "longitude": -82.64713,
-    "source": "https://kubra.io/data/7484a2ec-25b8-4615-9a98-151fd53a7532/public/cluster-3/03200123203.json"
+    "source": "https://kubra.io/data/e01ec370-1e3f-4ea2-8b8f-0586f58f9b83/public/cluster-3/03200123203.json"
   },
   {
     "id": "20080250",
@@ -42,37 +42,22 @@
     "startTime": "2020-08-02T01:46:35Z",
     "latitude": 38.12153,
     "longitude": -85.54453,
-    "source": "https://kubra.io/data/7484a2ec-25b8-4615-9a98-151fd53a7532/public/cluster-3/032000312.json"
+    "source": "https://kubra.io/data/e01ec370-1e3f-4ea2-8b8f-0586f58f9b83/public/cluster-3/0320003120.json"
   },
   {
-    "id": "20080101",
+    "id": "20080274",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
     "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Scheduled maintenance",
+    "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 4,
+    "custAffected": 9,
     "crewStatus": null,
-    "startTime": "2020-08-01T22:15:24Z",
-    "latitude": 38.47911,
-    "longitude": -85.47474,
-    "source": "https://kubra.io/data/7484a2ec-25b8-4615-9a98-151fd53a7532/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "20080249",
-    "etr": "2020-08-02T07:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Trees or limbs in lines",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-08-02T01:43:11Z",
-    "latitude": 38.31316,
-    "longitude": -85.51365,
-    "source": "https://kubra.io/data/7484a2ec-25b8-4615-9a98-151fd53a7532/public/cluster-3/03200031.json"
+    "startTime": "2020-08-02T05:32:21Z",
+    "latitude": 38.37302,
+    "longitude": -85.40325,
+    "source": "https://kubra.io/data/e01ec370-1e3f-4ea2-8b8f-0586f58f9b83/public/cluster-3/0320003103.json"
   },
   {
     "id": "20080267",
@@ -82,12 +67,12 @@
     "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
     "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 24,
+    "custAffected": 15,
     "crewStatus": null,
     "startTime": "2020-08-02T00:32:21Z",
-    "latitude": 38.37848,
-    "longitude": -85.60497,
-    "source": "https://kubra.io/data/7484a2ec-25b8-4615-9a98-151fd53a7532/public/cluster-3/032000310230.json"
+    "latitude": 38.37767,
+    "longitude": -85.60537,
+    "source": "https://kubra.io/data/e01ec370-1e3f-4ea2-8b8f-0586f58f9b83/public/cluster-3/0320003102300.json"
   },
   {
     "id": "20080212",
@@ -102,6 +87,21 @@
     "startTime": "2020-08-02T00:30:06Z",
     "latitude": 38.37449,
     "longitude": -85.60257,
-    "source": "https://kubra.io/data/7484a2ec-25b8-4615-9a98-151fd53a7532/public/cluster-3/032000310230.json"
+    "source": "https://kubra.io/data/e01ec370-1e3f-4ea2-8b8f-0586f58f9b83/public/cluster-3/0320003102302.json"
+  },
+  {
+    "id": "20080249",
+    "etr": "2020-08-02T07:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Trees or limbs in lines",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-08-02T01:43:11Z",
+    "latitude": 38.31316,
+    "longitude": -85.51365,
+    "source": "https://kubra.io/data/e01ec370-1e3f-4ea2-8b8f-0586f58f9b83/public/cluster-3/03200031.json"
   }
 ]
