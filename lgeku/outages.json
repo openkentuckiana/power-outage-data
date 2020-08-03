@@ -1,5 +1,20 @@
 [
   {
+    "id": "20080741",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-08-03T15:37:06Z",
+    "latitude": 37.21375,
+    "longitude": -84.11356,
+    "source": "https://kubra.io/data/e9d30035-9c15-4e80-aa35-752a8a5e8a90/public/cluster-3/0320012.json"
+  },
+  {
     "id": "20080710",
     "etr": "2020-08-03T17:30:00Z",
     "etrConfidence": null,
@@ -12,7 +27,7 @@
     "startTime": "2020-08-03T14:05:56Z",
     "latitude": 38.20636,
     "longitude": -85.62648,
-    "source": "https://kubra.io/data/81ef1b6a-cc3e-4d3f-90db-0d0bd1dff604/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/e9d30035-9c15-4e80-aa35-752a8a5e8a90/public/cluster-3/0320003.json"
   },
   {
     "id": "20080703",
@@ -27,6 +42,21 @@
     "startTime": "2020-08-03T13:52:48Z",
     "latitude": 38.39836,
     "longitude": -85.55038,
-    "source": "https://kubra.io/data/81ef1b6a-cc3e-4d3f-90db-0d0bd1dff604/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/e9d30035-9c15-4e80-aa35-752a8a5e8a90/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "20080739",
+    "etr": "2020-08-03T18:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-08-03T15:30:21Z",
+    "latitude": 38.24713,
+    "longitude": -84.54494,
+    "source": "https://kubra.io/data/e9d30035-9c15-4e80-aa35-752a8a5e8a90/public/cluster-3/0320003.json"
   }
 ]
