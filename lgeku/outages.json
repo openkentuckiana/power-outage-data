@@ -1,80 +1,5 @@
 [
   {
-    "id": "20083010",
-    "etr": "2020-08-11T06:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 74,
-    "crewStatus": null,
-    "startTime": "2020-08-11T03:42:12Z",
-    "latitude": 37.45419,
-    "longitude": -86.90821,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/032000320.json"
-  },
-  {
-    "id": "20083009",
-    "etr": "2020-08-11T06:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Weather-related",
-    "numberOut": 1,
-    "custAffected": 8,
-    "crewStatus": null,
-    "startTime": "2020-08-11T03:41:40Z",
-    "latitude": 37.42059,
-    "longitude": -86.88227,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/032000320211.json"
-  },
-  {
-    "id": "20083014",
-    "etr": "2020-08-11T06:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Trees or limbs in lines",
-    "numberOut": 1,
-    "custAffected": 6,
-    "crewStatus": null,
-    "startTime": "2020-08-11T03:47:33Z",
-    "latitude": 37.41361,
-    "longitude": -86.87946,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/032000320211.json"
-  },
-  {
-    "id": "20082976",
-    "etr": "2020-08-11T06:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 21,
-    "crewStatus": null,
-    "startTime": "2020-08-11T03:04:23Z",
-    "latitude": 37.33119,
-    "longitude": -87.44037,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/0320002.json"
-  },
-  {
-    "id": "20083048",
-    "etr": "2020-08-11T08:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-08-11T05:23:34Z",
-    "latitude": 37.42292,
-    "longitude": -87.0133,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/03200032.json"
-  },
-  {
     "id": "20083044",
     "etr": "2020-08-11T09:00:00Z",
     "etrConfidence": null,
@@ -87,7 +12,7 @@
     "startTime": "2020-08-11T05:13:44Z",
     "latitude": 37.15741,
     "longitude": -87.99303,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/0320002.json"
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/0320002.json"
   },
   {
     "id": "20082903",
@@ -102,7 +27,22 @@
     "startTime": "2020-08-11T02:18:11Z",
     "latitude": 37.68671,
     "longitude": -87.91032,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/0320002.json"
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/0320002.json"
+  },
+  {
+    "id": "20082976",
+    "etr": "2020-08-11T06:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 21,
+    "crewStatus": null,
+    "startTime": "2020-08-11T03:04:23Z",
+    "latitude": 37.33119,
+    "longitude": -87.44037,
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/0320002.json"
   },
   {
     "id": "20082924",
@@ -117,7 +57,7 @@
     "startTime": "2020-08-11T02:29:43Z",
     "latitude": 38.28162,
     "longitude": -85.62017,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/032000310.json"
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/032000310.json"
   },
   {
     "id": "20082927",
@@ -132,7 +72,7 @@
     "startTime": "2020-08-11T02:31:02Z",
     "latitude": 38.23113,
     "longitude": -85.61928,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/032000312.json"
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/032000312.json"
   },
   {
     "id": "20082975",
@@ -147,7 +87,7 @@
     "startTime": "2020-08-11T02:59:00Z",
     "latitude": 38.12055,
     "longitude": -85.44304,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/0320003.json"
   },
   {
     "id": "20082497",
@@ -162,7 +102,52 @@
     "startTime": "2020-08-10T12:59:10Z",
     "latitude": 37.92183,
     "longitude": -85.94679,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "20083014",
+    "etr": "2020-08-11T06:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Trees or limbs in lines",
+    "numberOut": 1,
+    "custAffected": 6,
+    "crewStatus": null,
+    "startTime": "2020-08-11T03:47:33Z",
+    "latitude": 37.41361,
+    "longitude": -86.87946,
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/032000320.json"
+  },
+  {
+    "id": "20083048",
+    "etr": "2020-08-11T08:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-08-11T05:23:34Z",
+    "latitude": 37.42292,
+    "longitude": -87.0133,
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/03200032.json"
+  },
+  {
+    "id": "20083010",
+    "etr": "2020-08-11T06:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Damaged equipment",
+    "numberOut": 1,
+    "custAffected": 74,
+    "crewStatus": null,
+    "startTime": "2020-08-11T03:42:12Z",
+    "latitude": 37.45419,
+    "longitude": -86.90821,
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/032000320.json"
   },
   {
     "id": "20083050",
@@ -177,6 +162,6 @@
     "startTime": "2020-08-11T03:07:01Z",
     "latitude": 36.78399,
     "longitude": -83.3359,
-    "source": "https://kubra.io/data/8627dc8f-040f-4cdc-b7b2-c3d3373f78a4/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/data/4b442b94-01de-4428-aede-021b3f63a672/public/cluster-3/0320012.json"
   }
 ]
