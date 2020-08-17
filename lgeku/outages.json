@@ -1,20 +1,5 @@
 [
   {
-    "id": "20085008",
-    "etr": "2020-08-17T11:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Trees or limbs in lines",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-08-16T21:48:15Z",
-    "latitude": 38.27791,
-    "longitude": -85.6598,
-    "source": "https://kubra.io/data/0eb464a5-55b2-42dc-8043-438250132ff6/public/cluster-3/0320003.json"
-  },
-  {
     "id": "20083270",
     "etr": "2020-08-17T19:30:00Z",
     "etrConfidence": null,
@@ -27,6 +12,36 @@
     "startTime": "2020-08-11T18:05:38Z",
     "latitude": 37.88582,
     "longitude": -85.9493,
-    "source": "https://kubra.io/data/0eb464a5-55b2-42dc-8043-438250132ff6/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/f4e23d5e-d370-40b6-8578-00eb107b2469/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "20085040",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-08-17T03:49:18Z",
+    "latitude": 38.20021,
+    "longitude": -85.62288,
+    "source": "https://kubra.io/data/f4e23d5e-d370-40b6-8578-00eb107b2469/public/cluster-3/03200031.json"
+  },
+  {
+    "id": "20085008",
+    "etr": "2020-08-17T11:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Trees or limbs in lines",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-08-16T21:48:15Z",
+    "latitude": 38.27791,
+    "longitude": -85.6598,
+    "source": "https://kubra.io/data/f4e23d5e-d370-40b6-8578-00eb107b2469/public/cluster-3/03200031.json"
   }
 ]
