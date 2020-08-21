@@ -12,14 +12,14 @@
     "startTime": "2020-08-21T18:58:28Z",
     "latitude": 36.90437,
     "longitude": -84.0925,
-    "source": "https://kubra.io/data/5a490ded-4ded-4b78-a947-143f3ef21ce1/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/data/8dcc76de-a112-4ac8-8f64-3fcec36e8f9c/public/cluster-3/03200122.json"
   },
   {
     "id": "20086858",
-    "etr": "ETR-NULL",
+    "etr": "2020-08-21T22:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 7,
@@ -27,22 +27,7 @@
     "startTime": "2020-08-21T19:33:38Z",
     "latitude": 37.71383,
     "longitude": -85.87516,
-    "source": "https://kubra.io/data/5a490ded-4ded-4b78-a947-143f3ef21ce1/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "20086807",
-    "etr": "2020-08-21T22:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Trees or limbs in lines",
-    "numberOut": 1,
-    "custAffected": 6,
-    "crewStatus": null,
-    "startTime": "2020-08-21T16:21:48Z",
-    "latitude": 38.27113,
-    "longitude": -85.68463,
-    "source": "https://kubra.io/data/5a490ded-4ded-4b78-a947-143f3ef21ce1/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/8dcc76de-a112-4ac8-8f64-3fcec36e8f9c/public/cluster-3/03200032.json"
   },
   {
     "id": "20086857",
@@ -57,6 +42,36 @@
     "startTime": "2020-08-21T19:29:42Z",
     "latitude": 38.02323,
     "longitude": -84.62543,
-    "source": "https://kubra.io/data/5a490ded-4ded-4b78-a947-143f3ef21ce1/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/8dcc76de-a112-4ac8-8f64-3fcec36e8f9c/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "20086867",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-08-21T20:08:36Z",
+    "latitude": 38.24603,
+    "longitude": -85.74405,
+    "source": "https://kubra.io/data/8dcc76de-a112-4ac8-8f64-3fcec36e8f9c/public/cluster-3/032000312.json"
+  },
+  {
+    "id": "20086807",
+    "etr": "2020-08-21T22:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Trees or limbs in lines",
+    "numberOut": 1,
+    "custAffected": 6,
+    "crewStatus": null,
+    "startTime": "2020-08-21T16:21:48Z",
+    "latitude": 38.27113,
+    "longitude": -85.68463,
+    "source": "https://kubra.io/data/8dcc76de-a112-4ac8-8f64-3fcec36e8f9c/public/cluster-3/032000312.json"
   }
 ]
