@@ -1,5 +1,20 @@
 [
   {
+    "id": "20086949",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-08-22T06:59:46Z",
+    "latitude": 38.11958,
+    "longitude": -85.87501,
+    "source": "https://kubra.io/data/d15ab509-3555-4a84-8494-a25ef3d0a4bf/public/cluster-3/0320003.json"
+  },
+  {
     "id": "20086935",
     "etr": "2020-08-22T08:30:00Z",
     "etrConfidence": null,
@@ -12,14 +27,14 @@
     "startTime": "2020-08-22T01:39:28Z",
     "latitude": 38.22645,
     "longitude": -85.69228,
-    "source": "https://kubra.io/data/3807c91e-8c8e-4f3c-abd8-91a4cc985d4b/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/data/d15ab509-3555-4a84-8494-a25ef3d0a4bf/public/cluster-3/03200031.json"
   },
   {
     "id": "20086941",
-    "etr": "2020-08-22T07:00:00Z",
+    "etr": "2020-08-22T09:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
     "cause": "Damaged equipment",
     "numberOut": 1,
     "custAffected": 4,
@@ -27,6 +42,21 @@
     "startTime": "2020-08-22T03:17:23Z",
     "latitude": 38.30391,
     "longitude": -85.63155,
-    "source": "https://kubra.io/data/3807c91e-8c8e-4f3c-abd8-91a4cc985d4b/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/data/d15ab509-3555-4a84-8494-a25ef3d0a4bf/public/cluster-3/03200031.json"
+  },
+  {
+    "id": "20086950",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 11,
+    "crewStatus": null,
+    "startTime": "2020-08-22T07:07:14Z",
+    "latitude": 37.74123,
+    "longitude": -84.88101,
+    "source": "https://kubra.io/data/d15ab509-3555-4a84-8494-a25ef3d0a4bf/public/cluster-3/0320003.json"
   }
 ]
