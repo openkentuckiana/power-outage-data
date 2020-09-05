@@ -1,5 +1,20 @@
 [
   {
+    "id": "20091744",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-09-05T22:57:23Z",
+    "latitude": 37.21944,
+    "longitude": -87.21132,
+    "source": "https://kubra.io/data/6361c6f6-b561-4251-80af-55d025bb8033/public/cluster-3/0320002.json"
+  },
+  {
     "id": "20091729",
     "etr": "2020-09-06T00:30:00Z",
     "etrConfidence": null,
@@ -12,7 +27,7 @@
     "startTime": "2020-09-05T20:49:26Z",
     "latitude": 38.25812,
     "longitude": -85.78147,
-    "source": "https://kubra.io/data/802719f1-eea8-48fc-80fc-1c4a1942141c/public/cluster-3/03200030.json"
+    "source": "https://kubra.io/data/6361c6f6-b561-4251-80af-55d025bb8033/public/cluster-3/03200030.json"
   },
   {
     "id": "20091743",
@@ -27,7 +42,7 @@
     "startTime": "2020-09-05T22:00:55Z",
     "latitude": 38.15255,
     "longitude": -85.87615,
-    "source": "https://kubra.io/data/802719f1-eea8-48fc-80fc-1c4a1942141c/public/cluster-3/03200030.json"
+    "source": "https://kubra.io/data/6361c6f6-b561-4251-80af-55d025bb8033/public/cluster-3/03200030.json"
   },
   {
     "id": "20091651",
@@ -42,21 +57,6 @@
     "startTime": "2020-09-05T16:43:04Z",
     "latitude": 36.72536,
     "longitude": -82.98702,
-    "source": "https://kubra.io/data/802719f1-eea8-48fc-80fc-1c4a1942141c/public/cluster-3/0320012.json"
-  },
-  {
-    "id": "20091724",
-    "etr": "2020-09-06T00:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Unable to determine",
-    "numberOut": 1,
-    "custAffected": 8,
-    "crewStatus": null,
-    "startTime": "2020-09-05T20:43:46Z",
-    "latitude": 36.88967,
-    "longitude": -83.05362,
-    "source": "https://kubra.io/data/802719f1-eea8-48fc-80fc-1c4a1942141c/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/data/6361c6f6-b561-4251-80af-55d025bb8033/public/cluster-3/0320012.json"
   }
 ]
