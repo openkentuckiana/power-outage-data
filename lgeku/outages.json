@@ -12,14 +12,29 @@
     "startTime": "2020-09-08T09:10:05Z",
     "latitude": 38.12764,
     "longitude": -83.59424,
-    "source": "https://kubra.io/data/556a986d-30ab-4339-929e-5a69d7d55a54/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/data/c2b5ac29-7649-4c53-89a4-05e04bafa5a8/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "20092114",
+    "etr": "2020-09-08T14:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 11,
+    "crewStatus": null,
+    "startTime": "2020-09-08T11:55:48Z",
+    "latitude": 38.12041,
+    "longitude": -85.75417,
+    "source": "https://kubra.io/data/c2b5ac29-7649-4c53-89a4-05e04bafa5a8/public/cluster-3/0320003.json"
   },
   {
     "id": "20092109",
-    "etr": "ETR-NULL",
+    "etr": "2020-09-08T14:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
@@ -27,7 +42,7 @@
     "startTime": "2020-09-08T11:41:12Z",
     "latitude": 38.05977,
     "longitude": -84.53744,
-    "source": "https://kubra.io/data/556a986d-30ab-4339-929e-5a69d7d55a54/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/c2b5ac29-7649-4c53-89a4-05e04bafa5a8/public/cluster-3/0320003.json"
   },
   {
     "id": "20092102",
@@ -42,6 +57,6 @@
     "startTime": "2020-09-08T11:20:58Z",
     "latitude": 37.05978,
     "longitude": -87.49435,
-    "source": "https://kubra.io/data/556a986d-30ab-4339-929e-5a69d7d55a54/public/cluster-3/0320002.json"
+    "source": "https://kubra.io/data/c2b5ac29-7649-4c53-89a4-05e04bafa5a8/public/cluster-3/0320002.json"
   }
 ]
