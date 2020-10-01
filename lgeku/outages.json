@@ -1,5 +1,20 @@
 [
   {
+    "id": "20099047",
+    "etr": "2020-10-02T01:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Trees or limbs in lines",
+    "numberOut": 1,
+    "custAffected": 11,
+    "crewStatus": null,
+    "startTime": "2020-10-01T23:15:59Z",
+    "latitude": 37.69361,
+    "longitude": -85.85489,
+    "source": "https://kubra.io/data/37304863-8bcc-4c06-bdb8-fe381512aa05/public/cluster-3/0320003.json"
+  },
+  {
     "id": "20098992",
     "etr": "2020-10-02T00:30:00Z",
     "etrConfidence": null,
@@ -12,6 +27,21 @@
     "startTime": "2020-10-01T18:32:54Z",
     "latitude": 38.10011,
     "longitude": -85.68575,
-    "source": "https://kubra.io/data/5f6b10e3-1c13-4980-838e-3b773de55f80/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/37304863-8bcc-4c06-bdb8-fe381512aa05/public/cluster-3/0320003120210.json"
+  },
+  {
+    "id": "20099048",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-10-01T23:27:06Z",
+    "latitude": 38.09863,
+    "longitude": -85.68834,
+    "source": "https://kubra.io/data/37304863-8bcc-4c06-bdb8-fe381512aa05/public/cluster-3/0320003120212.json"
   }
 ]
