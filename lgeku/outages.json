@@ -1,18 +1,18 @@
 [
   {
-    "id": "20099033",
-    "etr": "ETR-NULL",
+    "id": "20098992",
+    "etr": "2020-10-02T00:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Damaged equipment",
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Motor vehicle accident",
     "numberOut": 1,
-    "custAffected": 4,
+    "custAffected": 9,
     "crewStatus": null,
-    "startTime": "2020-10-01T21:15:11Z",
-    "latitude": 38.04163,
-    "longitude": -84.62793,
-    "source": "https://kubra.io/data/c09c6744-bac9-4bb2-81bc-f768cd2880b8/public/cluster-3/0320003.json"
+    "startTime": "2020-10-01T18:32:54Z",
+    "latitude": 38.10011,
+    "longitude": -85.68575,
+    "source": "https://kubra.io/data/c499756f-fde3-4bca-9c83-3022e5f176d7/public/cluster-3/0320003.json"
   },
   {
     "id": "20099031",
@@ -27,36 +27,21 @@
     "startTime": "2020-10-01T21:11:59Z",
     "latitude": 38.40581,
     "longitude": -85.39167,
-    "source": "https://kubra.io/data/c09c6744-bac9-4bb2-81bc-f768cd2880b8/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/c499756f-fde3-4bca-9c83-3022e5f176d7/public/cluster-3/0320003.json"
   },
   {
-    "id": "20098992",
-    "etr": "2020-10-01T22:30:00Z",
+    "id": "20099033",
+    "etr": "2020-10-02T00:30:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 9,
-    "crewStatus": null,
-    "startTime": "2020-10-01T18:32:54Z",
-    "latitude": 38.10011,
-    "longitude": -85.68575,
-    "source": "https://kubra.io/data/c09c6744-bac9-4bb2-81bc-f768cd2880b8/public/cluster-3/032000312.json"
-  },
-  {
-    "id": "20099006",
-    "etr": "2020-10-01T23:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
+    "cause": "Damaged equipment",
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2020-10-01T19:28:21Z",
-    "latitude": 38.09985,
-    "longitude": -85.61725,
-    "source": "https://kubra.io/data/c09c6744-bac9-4bb2-81bc-f768cd2880b8/public/cluster-3/032000312.json"
+    "startTime": "2020-10-01T21:15:11Z",
+    "latitude": 38.04163,
+    "longitude": -84.62793,
+    "source": "https://kubra.io/data/c499756f-fde3-4bca-9c83-3022e5f176d7/public/cluster-3/0320003.json"
   }
 ]
