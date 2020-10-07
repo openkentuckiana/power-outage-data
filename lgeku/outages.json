@@ -1,5 +1,20 @@
 [
   {
+    "id": "20100175",
+    "etr": "2020-10-07T02:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-10-07T00:41:26Z",
+    "latitude": 37.34644,
+    "longitude": -87.06609,
+    "source": "https://kubra.io/data/54982027-aa65-4b9b-a172-76e17b21c5e5/public/cluster-3/0320003.json"
+  },
+  {
     "id": "20099934",
     "etr": "2020-10-07T03:00:00Z",
     "etrConfidence": null,
@@ -12,14 +27,14 @@
     "startTime": "2020-10-06T14:26:58Z",
     "latitude": 38.21247,
     "longitude": -85.24065,
-    "source": "https://kubra.io/data/d3012aaf-6517-47ee-8a57-e9a0bfa0a771/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/54982027-aa65-4b9b-a172-76e17b21c5e5/public/cluster-3/0320003.json"
   },
   {
     "id": "20099830",
-    "etr": "2020-10-07T00:00:00Z",
+    "etr": "ETR-EXP",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
@@ -27,11 +42,11 @@
     "startTime": "2020-10-06T06:24:06Z",
     "latitude": 38.24418,
     "longitude": -85.7355,
-    "source": "https://kubra.io/data/d3012aaf-6517-47ee-8a57-e9a0bfa0a771/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/54982027-aa65-4b9b-a172-76e17b21c5e5/public/cluster-3/0320003.json"
   },
   {
     "id": "20100151",
-    "etr": "2020-10-07T00:00:00Z",
+    "etr": "2020-10-07T02:00:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
@@ -42,6 +57,6 @@
     "startTime": "2020-10-06T20:50:13Z",
     "latitude": 38.09229,
     "longitude": -85.67088,
-    "source": "https://kubra.io/data/d3012aaf-6517-47ee-8a57-e9a0bfa0a771/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/54982027-aa65-4b9b-a172-76e17b21c5e5/public/cluster-3/0320003.json"
   }
 ]
