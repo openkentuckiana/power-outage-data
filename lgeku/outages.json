@@ -1,10 +1,25 @@
 [
   {
-    "id": "20101617",
+    "id": "20101629",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
     "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-10-12T22:23:30Z",
+    "latitude": 37.39259,
+    "longitude": -86.89659,
+    "source": "https://kubra.io/data/3d149afe-ccec-44d9-bafa-3f83163c914d/public/cluster-3/03200032.json"
+  },
+  {
+    "id": "20101617",
+    "etr": "2020-10-13T02:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 49,
@@ -12,22 +27,22 @@
     "startTime": "2020-10-12T22:12:48Z",
     "latitude": 38.24122,
     "longitude": -85.72808,
-    "source": "https://kubra.io/data/23d69c94-9139-45da-85ee-8e67d8dab73b/public/cluster-3/03200031200.json"
+    "source": "https://kubra.io/data/3d149afe-ccec-44d9-bafa-3f83163c914d/public/cluster-3/03200031.json"
   },
   {
-    "id": "20101604",
-    "etr": "2020-10-13T00:30:00Z",
+    "id": "20101631",
+    "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
     "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 4,
+    "custAffected": 22,
     "crewStatus": null,
-    "startTime": "2020-10-12T20:44:39Z",
-    "latitude": 38.23031,
-    "longitude": -85.71459,
-    "source": "https://kubra.io/data/23d69c94-9139-45da-85ee-8e67d8dab73b/public/cluster-3/03200031200.json"
+    "startTime": "2020-10-12T22:24:32Z",
+    "latitude": 38.22175,
+    "longitude": -85.61886,
+    "source": "https://kubra.io/data/3d149afe-ccec-44d9-bafa-3f83163c914d/public/cluster-3/03200031.json"
   },
   {
     "id": "20101602",
@@ -42,6 +57,6 @@
     "startTime": "2020-10-12T20:38:43Z",
     "latitude": 38.05334,
     "longitude": -84.74013,
-    "source": "https://kubra.io/data/23d69c94-9139-45da-85ee-8e67d8dab73b/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/3d149afe-ccec-44d9-bafa-3f83163c914d/public/cluster-3/0320003.json"
   }
 ]
