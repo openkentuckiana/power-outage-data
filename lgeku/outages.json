@@ -1,5 +1,20 @@
 [
   {
+    "id": "20102356",
+    "etr": "2020-10-15T01:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 17,
+    "crewStatus": null,
+    "startTime": "2020-10-14T21:46:44Z",
+    "latitude": 38.14744,
+    "longitude": -85.82555,
+    "source": "https://kubra.io/data/07f37543-59a8-48e7-bfab-a28c0dd48863/public/cluster-3/0320003.json"
+  },
+  {
     "id": "20102358",
     "etr": "2020-10-15T00:00:00Z",
     "etrConfidence": null,
@@ -12,36 +27,6 @@
     "startTime": "2020-10-14T21:50:29Z",
     "latitude": 37.66457,
     "longitude": -87.90901,
-    "source": "https://kubra.io/data/55666ac4-b069-44ce-b8d5-7d33288ad504/public/cluster-3/0320002.json"
-  },
-  {
-    "id": "20102356",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 17,
-    "crewStatus": null,
-    "startTime": "2020-10-14T21:46:44Z",
-    "latitude": 38.14744,
-    "longitude": -85.82555,
-    "source": "https://kubra.io/data/55666ac4-b069-44ce-b8d5-7d33288ad504/public/cluster-3/03200030.json"
-  },
-  {
-    "id": "20102331",
-    "etr": "2020-10-14T22:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-10-14T19:37:11Z",
-    "latitude": 38.24637,
-    "longitude": -85.81646,
-    "source": "https://kubra.io/data/55666ac4-b069-44ce-b8d5-7d33288ad504/public/cluster-3/03200030.json"
+    "source": "https://kubra.io/data/07f37543-59a8-48e7-bfab-a28c0dd48863/public/cluster-3/0320002.json"
   }
 ]
