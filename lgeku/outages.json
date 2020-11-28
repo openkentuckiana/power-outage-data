@@ -1,5 +1,20 @@
 [
   {
+    "id": "20115635",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-11-28T03:07:28Z",
+    "latitude": 38.41022,
+    "longitude": -85.37987,
+    "source": "https://kubra.io/data/3dccf0c3-d94d-44f8-83c9-51b84a9e9fcb/public/cluster-3/0320003.json"
+  },
+  {
     "id": "20115631",
     "etr": "2020-11-28T05:00:00Z",
     "etrConfidence": null,
@@ -12,14 +27,14 @@
     "startTime": "2020-11-28T00:19:07Z",
     "latitude": 38.28518,
     "longitude": -85.61007,
-    "source": "https://kubra.io/data/4a7d518b-3f2a-4af0-8e08-32f314763b3d/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/3dccf0c3-d94d-44f8-83c9-51b84a9e9fcb/public/cluster-3/0320003.json"
   },
   {
     "id": "20115529",
-    "etr": "2020-11-28T03:00:00Z",
+    "etr": "ETR-EXP",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
     "cause": "Scheduled maintenance",
     "numberOut": 1,
     "custAffected": 4,
@@ -27,6 +42,6 @@
     "startTime": "2020-11-27T14:11:19Z",
     "latitude": 38.07906,
     "longitude": -84.52381,
-    "source": "https://kubra.io/data/4a7d518b-3f2a-4af0-8e08-32f314763b3d/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/3dccf0c3-d94d-44f8-83c9-51b84a9e9fcb/public/cluster-3/0320003.json"
   }
 ]
