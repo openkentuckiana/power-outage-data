@@ -1,5 +1,20 @@
 [
   {
+    "id": "20116430",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2020-12-01T23:36:59Z",
+    "latitude": 38.17414,
+    "longitude": -83.44147,
+    "source": "https://kubra.io/data/fb7edf43-5ae5-4045-adfb-0b53639bc65b/public/cluster-3/0320012.json"
+  },
+  {
     "id": "20116428",
     "etr": "2020-12-02T00:30:00Z",
     "etrConfidence": null,
@@ -12,22 +27,7 @@
     "startTime": "2020-12-01T20:54:23Z",
     "latitude": 38.00741,
     "longitude": -84.47285,
-    "source": "https://kubra.io/data/3392d337-a2db-46cc-b922-53000b0053a6/public/cluster-3/032000313.json"
-  },
-  {
-    "id": "20116426",
-    "etr": "2020-12-02T02:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2020-12-01T23:16:39Z",
-    "latitude": 38.00358,
-    "longitude": -84.43271,
-    "source": "https://kubra.io/data/3392d337-a2db-46cc-b922-53000b0053a6/public/cluster-3/032000313.json"
+    "source": "https://kubra.io/data/fb7edf43-5ae5-4045-adfb-0b53639bc65b/public/cluster-3/0320003.json"
   },
   {
     "id": "20116427",
@@ -42,6 +42,6 @@
     "startTime": "2020-12-01T23:16:58Z",
     "latitude": 38.22978,
     "longitude": -85.80402,
-    "source": "https://kubra.io/data/3392d337-a2db-46cc-b922-53000b0053a6/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/fb7edf43-5ae5-4045-adfb-0b53639bc65b/public/cluster-3/0320003.json"
   }
 ]
