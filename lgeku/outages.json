@@ -1,7 +1,22 @@
 [
   {
     "id": "21001781",
-    "etr": "2021-01-10T21:30:00Z",
+    "etr": "2021-01-10T20:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Unable to determine",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-01-10T18:49:25Z",
+    "latitude": 36.75746,
+    "longitude": -84.15029,
+    "source": "https://kubra.io/data/f88fe17f-2528-43d7-9fe6-630df5de4a78/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "21001785",
+    "etr": "2021-01-10T22:00:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
@@ -9,10 +24,10 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2021-01-10T18:49:25Z",
-    "latitude": 36.75746,
-    "longitude": -84.15029,
-    "source": "https://kubra.io/data/57b880ae-e045-4671-88ec-8368ee8c5484/public/cluster-3/0320012.json"
+    "startTime": "2021-01-10T19:19:51Z",
+    "latitude": 36.93921,
+    "longitude": -84.07377,
+    "source": "https://kubra.io/data/f88fe17f-2528-43d7-9fe6-630df5de4a78/public/cluster-3/0320012.json"
   },
   {
     "id": "21001778",
@@ -20,13 +35,13 @@
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
+    "cause": "Damaged equipment",
     "numberOut": 1,
-    "custAffected": 4,
+    "custAffected": 7,
     "crewStatus": null,
     "startTime": "2021-01-10T18:33:29Z",
     "latitude": 38.18701,
     "longitude": -85.57078,
-    "source": "https://kubra.io/data/57b880ae-e045-4671-88ec-8368ee8c5484/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/data/f88fe17f-2528-43d7-9fe6-630df5de4a78/public/cluster-3/0320003.json"
   }
 ]
