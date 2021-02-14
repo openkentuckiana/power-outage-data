@@ -12,14 +12,29 @@
     "startTime": "2021-02-14T19:50:31Z",
     "latitude": 38.5252,
     "longitude": -84.02925,
-    "source": "https://kubra.io/data/b3fae2df-988c-4283-8c11-9de1896c75b5/public/cluster-3/03200120.json"
+    "source": "https://kubra.io/data/6c0a8b37-d4d5-4471-94ea-6eb7b632c319/public/cluster-3/0320012.json"
   },
   {
-    "id": "21016510",
+    "id": "21016521",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "comments": "Due to the number of outages in your area an estimated time of restoration is not currently available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-02-14T21:06:26Z",
+    "latitude": 37.74696,
+    "longitude": -84.28976,
+    "source": "https://kubra.io/data/6c0a8b37-d4d5-4471-94ea-6eb7b632c319/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "21016510",
+    "etr": "2021-02-14T22:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 9,
@@ -27,22 +42,7 @@
     "startTime": "2021-02-14T19:50:23Z",
     "latitude": 37.65563,
     "longitude": -84.75689,
-    "source": "https://kubra.io/data/b3fae2df-988c-4283-8c11-9de1896c75b5/public/cluster-3/03200033.json"
-  },
-  {
-    "id": "21016516",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Weather-related",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2021-02-14T20:57:50Z",
-    "latitude": 37.97651,
-    "longitude": -84.4955,
-    "source": "https://kubra.io/data/b3fae2df-988c-4283-8c11-9de1896c75b5/public/cluster-3/032000313.json"
+    "source": "https://kubra.io/data/6c0a8b37-d4d5-4471-94ea-6eb7b632c319/public/cluster-3/0320003.json"
   },
   {
     "id": "21016501",
@@ -57,36 +57,6 @@
     "startTime": "2021-02-14T20:04:12Z",
     "latitude": 37.98857,
     "longitude": -84.5782,
-    "source": "https://kubra.io/data/b3fae2df-988c-4283-8c11-9de1896c75b5/public/cluster-3/03200031.json"
-  },
-  {
-    "id": "21016427",
-    "etr": "2021-02-14T22:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Weather-related",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2021-02-14T19:41:07Z",
-    "latitude": 38.02807,
-    "longitude": -84.55031,
-    "source": "https://kubra.io/data/b3fae2df-988c-4283-8c11-9de1896c75b5/public/cluster-3/03200031313220.json"
-  },
-  {
-    "id": "21016507",
-    "etr": "2021-02-14T23:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Weather-related",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2021-02-14T20:21:57Z",
-    "latitude": 38.02855,
-    "longitude": -84.55005,
-    "source": "https://kubra.io/data/b3fae2df-988c-4283-8c11-9de1896c75b5/public/cluster-3/03200031313220.json"
+    "source": "https://kubra.io/data/6c0a8b37-d4d5-4471-94ea-6eb7b632c319/public/cluster-3/0320003.json"
   }
 ]
