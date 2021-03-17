@@ -7,12 +7,12 @@
     "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 4,
+    "custAffected": 10,
     "crewStatus": null,
     "startTime": "2021-03-17T11:12:15Z",
-    "latitude": 38.12892,
-    "longitude": -85.70605,
-    "source": "https://kubra.io/data/7aed3ce4-9eee-4348-8e48-87a947c52a7c/public/cluster-3/03200031202011.json"
+    "latitude": 38.12862,
+    "longitude": -85.70612,
+    "source": "https://kubra.io/data/8e6db417-3165-4d5d-b086-ddb38e30febf/public/cluster-3/03200031202011.json"
   },
   {
     "id": "21027968",
@@ -27,7 +27,52 @@
     "startTime": "2021-03-17T11:14:56Z",
     "latitude": 38.12928,
     "longitude": -85.70489,
-    "source": "https://kubra.io/data/7aed3ce4-9eee-4348-8e48-87a947c52a7c/public/cluster-3/03200031202011.json"
+    "source": "https://kubra.io/data/8e6db417-3165-4d5d-b086-ddb38e30febf/public/cluster-3/03200031202011.json"
+  },
+  {
+    "id": "21027977",
+    "etr": "2021-03-17T15:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-03-17T12:16:52Z",
+    "latitude": 36.97713,
+    "longitude": -82.98605,
+    "source": "https://kubra.io/data/8e6db417-3165-4d5d-b086-ddb38e30febf/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "21027978",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-03-17T12:17:22Z",
+    "latitude": 37.74636,
+    "longitude": -84.28,
+    "source": "https://kubra.io/data/8e6db417-3165-4d5d-b086-ddb38e30febf/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "21027988",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-03-17T12:40:34Z",
+    "latitude": 38.78309,
+    "longitude": -84.90109,
+    "source": "https://kubra.io/data/8e6db417-3165-4d5d-b086-ddb38e30febf/public/cluster-3/0320003.json"
   },
   {
     "id": "21025444",
@@ -42,7 +87,7 @@
     "startTime": "2021-03-08T12:23:57Z",
     "latitude": 38.29758,
     "longitude": -85.54696,
-    "source": "https://kubra.io/data/7aed3ce4-9eee-4348-8e48-87a947c52a7c/public/cluster-3/03200031023230.json"
+    "source": "https://kubra.io/data/8e6db417-3165-4d5d-b086-ddb38e30febf/public/cluster-3/03200031023230.json"
   },
   {
     "id": "21025443",
@@ -57,7 +102,7 @@
     "startTime": "2021-03-08T12:23:33Z",
     "latitude": 38.2976,
     "longitude": -85.54686,
-    "source": "https://kubra.io/data/7aed3ce4-9eee-4348-8e48-87a947c52a7c/public/cluster-3/03200031023230.json"
+    "source": "https://kubra.io/data/8e6db417-3165-4d5d-b086-ddb38e30febf/public/cluster-3/03200031023230.json"
   },
   {
     "id": "21027961",
@@ -72,21 +117,6 @@
     "startTime": "2021-03-17T08:31:23Z",
     "latitude": 36.96796,
     "longitude": -89.07457,
-    "source": "https://kubra.io/data/7aed3ce4-9eee-4348-8e48-87a947c52a7c/public/cluster-3/0320002.json"
-  },
-  {
-    "id": "21027970",
-    "etr": "2021-03-17T13:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Scheduled maintenance",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2021-03-17T11:39:58Z",
-    "latitude": 36.97032,
-    "longitude": -84.09045,
-    "source": "https://kubra.io/data/7aed3ce4-9eee-4348-8e48-87a947c52a7c/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/data/8e6db417-3165-4d5d-b086-ddb38e30febf/public/cluster-3/0320002.json"
   }
 ]
