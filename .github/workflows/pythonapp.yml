@@ -22,6 +22,6 @@ jobs:
         pip install -r requirements.txt
     - name: Run app
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python scrape_all.py
