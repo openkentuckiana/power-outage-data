@@ -1,18 +1,33 @@
 [
   {
-    "id": "21066266",
+    "id": "21066274",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-06-26T06:21:41Z",
+    "latitude": 38.121,
+    "longitude": -85.49016,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/33b27aa0-6bc5-46b6-9eb1-09dee34335c3/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "21066275",
     "etr": "2021-06-26T08:30:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 18,
+    "custAffected": 4,
     "crewStatus": null,
     "startTime": "2021-06-26T04:30:55Z",
-    "latitude": 38.302,
-    "longitude": -85.61919,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/9dee1517-3bf4-40da-8358-df5c8d27e348/public/cluster-3/0320003.json"
+    "latitude": 38.30234,
+    "longitude": -85.61906,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/33b27aa0-6bc5-46b6-9eb1-09dee34335c3/public/cluster-3/0320003.json"
   },
   {
     "id": "21066177",
@@ -27,6 +42,6 @@
     "startTime": "2021-06-25T20:52:33Z",
     "latitude": 37.91142,
     "longitude": -84.74825,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/9dee1517-3bf4-40da-8358-df5c8d27e348/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/33b27aa0-6bc5-46b6-9eb1-09dee34335c3/public/cluster-3/0320003.json"
   }
 ]
