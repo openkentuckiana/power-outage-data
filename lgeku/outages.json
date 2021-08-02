@@ -1,17 +1,47 @@
 [
   {
+    "id": "21082404",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 43,
+    "crewStatus": null,
+    "startTime": "2021-08-02T02:44:08Z",
+    "latitude": 36.85974,
+    "longitude": -82.77941,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/4a2e4625-0802-44a2-a9e4-b609855f0c3a/public/cluster-3/0320012.json"
+  },
+  {
     "id": "21082400",
     "etr": "2021-08-02T05:00:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
+    "cause": "Trees or limbs in lines",
     "numberOut": 1,
     "custAffected": 5,
     "crewStatus": null,
     "startTime": "2021-08-02T02:11:49Z",
     "latitude": 38.21102,
     "longitude": -85.74476,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/121a465d-13f5-41f1-8fe8-46cd0c54914a/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/4a2e4625-0802-44a2-a9e4-b609855f0c3a/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "21082403",
+    "etr": "2021-08-02T06:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 7,
+    "crewStatus": null,
+    "startTime": "2021-08-02T02:42:19Z",
+    "latitude": 38.14037,
+    "longitude": -85.88877,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/4a2e4625-0802-44a2-a9e4-b609855f0c3a/public/cluster-3/0320003.json"
   }
 ]
