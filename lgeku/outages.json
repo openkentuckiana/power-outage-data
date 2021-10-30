@@ -12,7 +12,7 @@
     "startTime": "2021-10-30T06:38:58Z",
     "latitude": 38.15728,
     "longitude": -85.6391,
-    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c635d7c-1656-420e-a243-7c8c30ca7073/public/cluster-3/032000312.json"
+    "source": "https://kubra.io/cluster-data/021/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bfb043ad-4d56-4896-ab78-b7e940b31c90/public/cluster-3/0320003120.json"
   },
   {
     "id": "21115219",
@@ -27,7 +27,7 @@
     "startTime": "2021-10-30T09:18:54Z",
     "latitude": 38.23296,
     "longitude": -85.77202,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c635d7c-1656-420e-a243-7c8c30ca7073/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bfb043ad-4d56-4896-ab78-b7e940b31c90/public/cluster-3/03200031.json"
   },
   {
     "id": "21115210",
@@ -42,22 +42,67 @@
     "startTime": "2021-10-30T07:47:16Z",
     "latitude": 38.18366,
     "longitude": -85.69876,
-    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c635d7c-1656-420e-a243-7c8c30ca7073/public/cluster-3/032000312.json"
+    "source": "https://kubra.io/cluster-data/021/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bfb043ad-4d56-4896-ab78-b7e940b31c90/public/cluster-3/0320003120.json"
   },
   {
     "id": "21115206",
-    "etr": "2021-10-30T11:00:00Z",
+    "etr": "ETR-EXP",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
     "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 4,
+    "custAffected": 7,
     "crewStatus": null,
     "startTime": "2021-10-30T07:23:19Z",
     "latitude": 38.14827,
     "longitude": -85.7807,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c635d7c-1656-420e-a243-7c8c30ca7073/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bfb043ad-4d56-4896-ab78-b7e940b31c90/public/cluster-3/03200031.json"
+  },
+  {
+    "id": "21115240",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-10-30T11:05:35Z",
+    "latitude": 38.12909,
+    "longitude": -85.69967,
+    "source": "https://kubra.io/cluster-data/110/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bfb043ad-4d56-4896-ab78-b7e940b31c90/public/cluster-3/03200031202011.json"
+  },
+  {
+    "id": "21115241",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-10-30T11:05:50Z",
+    "latitude": 38.12869,
+    "longitude": -85.69858,
+    "source": "https://kubra.io/cluster-data/110/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bfb043ad-4d56-4896-ab78-b7e940b31c90/public/cluster-3/03200031202011.json"
+  },
+  {
+    "id": "21115242",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-10-30T11:12:45Z",
+    "latitude": 38.12952,
+    "longitude": -85.69847,
+    "source": "https://kubra.io/cluster-data/110/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bfb043ad-4d56-4896-ab78-b7e940b31c90/public/cluster-3/03200031202011.json"
   },
   {
     "id": "21115223",
@@ -72,14 +117,14 @@
     "startTime": "2021-10-30T10:00:08Z",
     "latitude": 36.86596,
     "longitude": -83.19654,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c635d7c-1656-420e-a243-7c8c30ca7073/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bfb043ad-4d56-4896-ab78-b7e940b31c90/public/cluster-3/0320012.json"
   },
   {
     "id": "21115227",
-    "etr": "ETR-NULL",
+    "etr": "2021-10-30T14:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 211,
@@ -87,6 +132,6 @@
     "startTime": "2021-10-30T10:48Z",
     "latitude": 37.68542,
     "longitude": -87.55751,
-    "source": "https://kubra.io/cluster-data/200/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c635d7c-1656-420e-a243-7c8c30ca7073/public/cluster-3/0320002.json"
+    "source": "https://kubra.io/cluster-data/200/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bfb043ad-4d56-4896-ab78-b7e940b31c90/public/cluster-3/0320002.json"
   }
 ]
