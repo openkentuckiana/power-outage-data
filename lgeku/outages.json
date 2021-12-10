@@ -1,20 +1,5 @@
 [
   {
-    "id": "21128076",
-    "etr": "2021-12-10T23:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Unable to determine",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2021-12-10T21:15:32Z",
-    "latitude": 37.73788,
-    "longitude": -84.14496,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a93c2ebb-07f5-4dd5-9398-a3afd9834459/public/cluster-3/0320012.json"
-  },
-  {
     "id": "21128078",
     "etr": "2021-12-11T00:30:00Z",
     "etrConfidence": null,
@@ -27,22 +12,22 @@
     "startTime": "2021-12-10T21:19:11Z",
     "latitude": 38.19426,
     "longitude": -83.42319,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a93c2ebb-07f5-4dd5-9398-a3afd9834459/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/cluster-data/021/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2598e43c-2ce8-4b02-97a0-09ecdde1869a/public/cluster-3/03200120.json"
   },
   {
-    "id": "21128079",
-    "etr": "2021-12-11T00:30:00Z",
+    "id": "21128094",
+    "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
     "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 20,
+    "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2021-12-10T21:19:18Z",
-    "latitude": 38.20943,
-    "longitude": -85.76778,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a93c2ebb-07f5-4dd5-9398-a3afd9834459/public/cluster-3/0320003.json"
+    "startTime": "2021-12-10T22:13:25Z",
+    "latitude": 38.21988,
+    "longitude": -85.21799,
+    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2598e43c-2ce8-4b02-97a0-09ecdde1869a/public/cluster-3/032000312.json"
   },
   {
     "id": "21128056",
@@ -57,6 +42,36 @@
     "startTime": "2021-12-10T20:17:02Z",
     "latitude": 38.03856,
     "longitude": -84.75757,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a93c2ebb-07f5-4dd5-9398-a3afd9834459/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2598e43c-2ce8-4b02-97a0-09ecdde1869a/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "21128095",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2021-12-10T22:16:30Z",
+    "latitude": 38.26257,
+    "longitude": -85.78373,
+    "source": "https://kubra.io/cluster-data/303/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2598e43c-2ce8-4b02-97a0-09ecdde1869a/public/cluster-3/032000303.json"
+  },
+  {
+    "id": "21128079",
+    "etr": "2021-12-11T00:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 20,
+    "crewStatus": null,
+    "startTime": "2021-12-10T21:19:18Z",
+    "latitude": 38.20943,
+    "longitude": -85.76778,
+    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2598e43c-2ce8-4b02-97a0-09ecdde1869a/public/cluster-3/032000312.json"
   }
 ]
