@@ -25,6 +25,8 @@ jobs:
       env:
         HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
       run: |
+        curl https://cli-assets.heroku.com/install.sh | sh
+        heroku login
         python build_database.py lgeku/outages.db
         heroku plugins:install heroku-builds
         datasette publish heroku --name=lgeku-outages --install=datasette-cluster-map --install=datasette-vega lgeku/outages.db
