@@ -1,18 +1,18 @@
 [
   {
-    "id": "22028073",
-    "etr": "2022-03-26T15:30:00Z",
+    "id": "22028080",
+    "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Trees or limbs in lines",
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 144,
+    "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2022-03-26T09:58:22Z",
-    "latitude": 36.89955,
-    "longitude": -82.5279,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/92678e92-685b-4f2c-a975-0fdf9dafb2cd/public/cluster-3/0320012.json"
+    "startTime": "2022-03-26T11:54:59Z",
+    "latitude": 38.01054,
+    "longitude": -84.54087,
+    "source": "https://kubra.io/cluster-data/313/aa3e643b-d606-4bc6-944f-a2f22f0d5879/340a9253-88a1-472e-9152-d13bdca67608/public/cluster-3/032000313.json"
   },
   {
     "id": "22028059",
@@ -27,6 +27,36 @@
     "startTime": "2022-03-26T09:04:43Z",
     "latitude": 38.05307,
     "longitude": -84.48763,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/92678e92-685b-4f2c-a975-0fdf9dafb2cd/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/313/aa3e643b-d606-4bc6-944f-a2f22f0d5879/340a9253-88a1-472e-9152-d13bdca67608/public/cluster-3/032000313.json"
+  },
+  {
+    "id": "22028079",
+    "etr": "2022-03-26T15:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2022-03-26T11:42:09Z",
+    "latitude": 36.86046,
+    "longitude": -82.75053,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/340a9253-88a1-472e-9152-d13bdca67608/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "22028073",
+    "etr": "2022-03-26T15:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Trees or limbs in lines",
+    "numberOut": 1,
+    "custAffected": 144,
+    "crewStatus": null,
+    "startTime": "2022-03-26T09:58:22Z",
+    "latitude": 36.89955,
+    "longitude": -82.5279,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/340a9253-88a1-472e-9152-d13bdca67608/public/cluster-3/0320012.json"
   }
 ]
