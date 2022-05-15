@@ -1,35 +1,5 @@
 [
   {
-    "id": "22053448",
-    "etr": "2022-05-16T00:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Motor vehicle accident",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2022-05-15T17:03:08Z",
-    "latitude": 38.13996,
-    "longitude": -85.79373,
-    "source": "https://kubra.io/cluster-data/333/aa3e643b-d606-4bc6-944f-a2f22f0d5879/6dcc593a-bccd-4b21-8173-ad1418990ad9/public/cluster-3/03200030311333.json"
-  },
-  {
-    "id": "22053447",
-    "etr": "2022-05-16T00:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Motor vehicle accident",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2022-05-15T17:02:57Z",
-    "latitude": 38.14028,
-    "longitude": -85.79358,
-    "source": "https://kubra.io/cluster-data/333/aa3e643b-d606-4bc6-944f-a2f22f0d5879/6dcc593a-bccd-4b21-8173-ad1418990ad9/public/cluster-3/03200030311333.json"
-  },
-  {
     "id": "22053468",
     "etr": "2022-05-15T23:00:00Z",
     "etrConfidence": null,
@@ -42,7 +12,37 @@
     "startTime": "2022-05-15T19:14:29Z",
     "latitude": 36.65273,
     "longitude": -83.63785,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/6dcc593a-bccd-4b21-8173-ad1418990ad9/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/cluster-data/221/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5f79d37b-8ca5-471e-9c8e-6ba463f5af35/public/cluster-3/03200122.json"
+  },
+  {
+    "id": "22053492",
+    "etr": "2022-05-16T01:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2022-05-15T22:27:45Z",
+    "latitude": 36.70283,
+    "longitude": -84.4816,
+    "source": "https://kubra.io/cluster-data/330/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5f79d37b-8ca5-471e-9c8e-6ba463f5af35/public/cluster-3/03200033.json"
+  },
+  {
+    "id": "22053493",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2022-05-15T22:32:01Z",
+    "latitude": 38.14559,
+    "longitude": -85.63798,
+    "source": "https://kubra.io/cluster-data/233/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5f79d37b-8ca5-471e-9c8e-6ba463f5af35/public/cluster-3/03200031200332.json"
   },
   {
     "id": "22053487",
@@ -57,7 +57,37 @@
     "startTime": "2022-05-15T21:19:56Z",
     "latitude": 38.1447,
     "longitude": -85.63792,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/6dcc593a-bccd-4b21-8173-ad1418990ad9/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/cluster-data/233/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5f79d37b-8ca5-471e-9c8e-6ba463f5af35/public/cluster-3/03200031200332.json"
+  },
+  {
+    "id": "22053448",
+    "etr": "2022-05-16T00:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Motor vehicle accident",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2022-05-15T17:03:08Z",
+    "latitude": 38.13996,
+    "longitude": -85.79373,
+    "source": "https://kubra.io/cluster-data/333/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5f79d37b-8ca5-471e-9c8e-6ba463f5af35/public/cluster-3/03200030311333.json"
+  },
+  {
+    "id": "22053447",
+    "etr": "2022-05-16T00:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Motor vehicle accident",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2022-05-15T17:02:57Z",
+    "latitude": 38.14028,
+    "longitude": -85.79358,
+    "source": "https://kubra.io/cluster-data/333/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5f79d37b-8ca5-471e-9c8e-6ba463f5af35/public/cluster-3/03200030311333.json"
   },
   {
     "id": "22053480",
@@ -72,7 +102,7 @@
     "startTime": "2022-05-15T20:42:23Z",
     "latitude": 38.29755,
     "longitude": -84.67877,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/6dcc593a-bccd-4b21-8173-ad1418990ad9/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5f79d37b-8ca5-471e-9c8e-6ba463f5af35/public/cluster-3/0320003.json"
   },
   {
     "id": "22053490",
@@ -87,6 +117,6 @@
     "startTime": "2022-05-15T21:41:53Z",
     "latitude": 37.96436,
     "longitude": -84.48904,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/6dcc593a-bccd-4b21-8173-ad1418990ad9/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5f79d37b-8ca5-471e-9c8e-6ba463f5af35/public/cluster-3/0320003.json"
   }
 ]
