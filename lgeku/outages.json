@@ -1,20 +1,5 @@
 [
   {
-    "id": "22108435",
-    "etr": "ETR-EXP",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
-    "cause": "Weather-related",
-    "numberOut": 1,
-    "custAffected": 14,
-    "crewStatus": null,
-    "startTime": "2022-08-21T21:56:15Z",
-    "latitude": 38.20979,
-    "longitude": -85.76657,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5904321d-a414-429d-b09f-ae42f21e42cf/public/cluster-3/0320003.json"
-  },
-  {
     "id": "22108455",
     "etr": "2022-08-22T04:30:00Z",
     "etrConfidence": null,
@@ -27,6 +12,36 @@
     "startTime": "2022-08-21T21:48:35Z",
     "latitude": 38.23261,
     "longitude": -85.5556,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/5904321d-a414-429d-b09f-ae42f21e42cf/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2a59983b-7405-44c6-a14c-bc620419c4de/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "22108751",
+    "etr": "2022-08-22T05:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2022-08-22T02:31:56Z",
+    "latitude": 36.8108,
+    "longitude": -83.27043,
+    "source": "https://kubra.io/cluster-data/221/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2a59983b-7405-44c6-a14c-bc620419c4de/public/cluster-3/03200122.json"
+  },
+  {
+    "id": "22108756",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2022-08-22T03:17:24Z",
+    "latitude": 36.83855,
+    "longitude": -83.41729,
+    "source": "https://kubra.io/cluster-data/221/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2a59983b-7405-44c6-a14c-bc620419c4de/public/cluster-3/03200122.json"
   }
 ]
