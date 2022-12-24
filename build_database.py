@@ -5,6 +5,7 @@ import datetime
 from sqlite_utils.db import NotFoundError
 import git
 import json
+import sys
 
 
 def iterate_file_versions(repo_path, filepath, ref="master"):
@@ -174,3 +175,5 @@ from outage_snapshots
 group by outage;
         """
         )
+
+    sys.exit(0)
