@@ -1,8 +1,8 @@
 -i https://pypi.org/simple
 certifi==2019.11.28
 chardet==3.0.4
-click==7.0
-datasette
+click
+datasette==0.63.3
 github-contents==0.1
 GitPython~=3.0.2
 idna==2.8
@@ -10,6 +10,5 @@ mercantile==1.1.2
 polyline==1.4.0
 python-dotenv==0.10.3
 requests==2.22.0
-sqlite-utils~=1.11
-six==1.13.0
+sqlite-utils
 urllib3==1.25.8
