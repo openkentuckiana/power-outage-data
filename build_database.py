@@ -99,7 +99,7 @@ def save_outage(db, outage, when, hash):
             if outage.get("crew_status")
             else None,
             "source": outage["source"],
-        }
+        }, pk="id"
     )
 
 
