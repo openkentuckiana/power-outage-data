@@ -51,7 +51,7 @@ class KubraScraper(DeltaScraper):
         self.deploymentId = state["stormcenterDeploymentId"]
         config = self._make_request(self.config_url).json()
         interval_data = config["config"]["layers"]["data"]["interval_generation_data"]
-        self.layer_name = [l for l in interval_data if l["type"].startswith("CLUSTER_LAYER")][0]["layerName"]
+        self.layer_name = [l for l in interval_data if l["type"].startswith("CLUSTER_LAYER")][0]["id"]
 
     def fetch_data(self):
         data = self._make_request(self.data_url).json()
