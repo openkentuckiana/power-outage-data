@@ -22,8 +22,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Build DB
-      run: |
-        - python build_database.py lgeku/outages.db
+      run: python build_database.py lgeku/outages.db
     - name: Deploy to Heroku
       env:
         HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
