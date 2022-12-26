@@ -1,5 +1,20 @@
 [
   {
+    "id": "22153970",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Weather-related",
+    "numberOut": 1,
+    "custAffected": 9,
+    "crewStatus": null,
+    "startTime": "2022-12-26T02:21:38Z",
+    "latitude": 36.9223,
+    "longitude": -83.51845,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1960ae18-0822-4b40-bcfc-39ea995804d7/public/cluster-3/0320012.json"
+  },
+  {
     "id": "22153937",
     "etr": "2022-12-26T03:30:00Z",
     "etrConfidence": null,
@@ -12,7 +27,7 @@
     "startTime": "2022-12-25T21:14:31Z",
     "latitude": 37.76895,
     "longitude": -84.31385,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2b62bc19-0efa-4799-ab30-8aa67438a770/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1960ae18-0822-4b40-bcfc-39ea995804d7/public/cluster-3/0320012.json"
   },
   {
     "id": "22153966",
@@ -27,6 +42,21 @@
     "startTime": "2022-12-26T01:32:25Z",
     "latitude": 37.76482,
     "longitude": -84.72272,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2b62bc19-0efa-4799-ab30-8aa67438a770/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1960ae18-0822-4b40-bcfc-39ea995804d7/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "22153968",
+    "etr": "2022-12-26T03:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The above estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Damaged equipment",
+    "numberOut": 1,
+    "custAffected": 15,
+    "crewStatus": null,
+    "startTime": "2022-12-26T02:16:59Z",
+    "latitude": 38.18521,
+    "longitude": -85.84918,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1960ae18-0822-4b40-bcfc-39ea995804d7/public/cluster-3/0320003.json"
   }
 ]
