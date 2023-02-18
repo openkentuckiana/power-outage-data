@@ -1,6 +1,6 @@
 [
   {
-    "id": "23013862",
+    "id": "23013864",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
@@ -9,10 +9,40 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
+    "startTime": "2023-02-18T15:24:12Z",
+    "latitude": 36.97653,
+    "longitude": -82.9844,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c109365-4399-4a4d-bf6b-b1b8ed7a8ae6/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "23013862",
+    "etr": "2023-02-18T18:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
     "startTime": "2023-02-18T15:13:22Z",
     "latitude": 37.8144,
     "longitude": -85.3726,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/8bced0f5-eff0-4b5f-83bd-52390c64e030/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c109365-4399-4a4d-bf6b-b1b8ed7a8ae6/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "23013859",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "cause": "Unable to assess due to conditions",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2023-02-18T14:57:18Z",
+    "latitude": 38.52624,
+    "longitude": -85.21058,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c109365-4399-4a4d-bf6b-b1b8ed7a8ae6/public/cluster-3/0320003.json"
   },
   {
     "id": "23006383",
@@ -27,6 +57,6 @@
     "startTime": "2023-01-26T13:26:08Z",
     "latitude": 38.07629,
     "longitude": -84.48955,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/8bced0f5-eff0-4b5f-83bd-52390c64e030/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1c109365-4399-4a4d-bf6b-b1b8ed7a8ae6/public/cluster-3/0320003.json"
   }
 ]
