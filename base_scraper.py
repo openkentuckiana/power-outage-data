@@ -32,8 +32,8 @@ class GithubContents:
         response = self.session.get(content_url, headers=self.headers())
         if response.status_code == 200:
             data = response.json()
-            if not data.get("download_url") and data.get("download_url"):
-                return self.session.get(data["download_url"], headers=self.headers())
+            if not data.get("content") and data.get("download_url"):
+                return self.session.get(data["download_url"], headers=self.headers()).text, data["sha"]
             return base64.b64decode(data["content"]), data["sha"]
         elif response.status_code == 404:
             raise self.NotFound(filepath)
@@ -74,12 +74,13 @@ class Scraper:
             # Check and see if it exists yet
             try:
                 content, sha = github.read(self.filepath)
+                breakpoint()
                 self.last_data = json.loads(content)
                 self.last_sha = sha
             except GithubContents.NotFound:
                 self.last_data = None
                 self.last_sha = None
-                
+
         data = self.fetch_data()
         if data is None:
             print("{}; Data was None".format(self.filepath))
