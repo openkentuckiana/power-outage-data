@@ -33,8 +33,7 @@ class GithubContents:
         if response.status_code == 200:
             data = response.json()
             if not data.get("download_url") and data.get("download_url"):
-                response = self.session.get(data["download_url"], headers=self.headers())
-                data = response.json()
+                return self.session.get(data["download_url"], headers=self.headers())
             return base64.b64decode(data["content"]), data["sha"]
         elif response.status_code == 404:
             raise self.NotFound(filepath)
@@ -69,15 +68,6 @@ class Scraper:
         return []
 
     def scrape_and_store(self):
-        data = self.fetch_data()
-        if data is None:
-            print("{}; Data was None".format(self.filepath))
-            return
-
-        if self.test_mode and not self.github_token:
-            print(json.dumps(data, indent=2))
-            return
-
         # We need to store the data
         github = GithubContents(self.owner, self.repo, self.github_token)
         if not self.last_data or not self.last_sha:
@@ -89,6 +79,15 @@ class Scraper:
             except GithubContents.NotFound:
                 self.last_data = None
                 self.last_sha = None
+                
+        data = self.fetch_data()
+        if data is None:
+            print("{}; Data was None".format(self.filepath))
+            return
+
+        if self.test_mode and not self.github_token:
+            print(json.dumps(data, indent=2))
+            return
 
         if self.last_data == data:
             print("%s: Nothing changed" % self.filepath)
@@ -229,5 +228,3 @@ class DeltaScraper(Scraper):
             summary_text = "{} {}".format(verb, self.display_name)
         return "{}\n\n{}".format(summary_text, body)
 
-
-    
