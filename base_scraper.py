@@ -1,7 +1,51 @@
-from github_contents import GithubContents
-
+import base64
 import json
 
+from requests import Session
+
+
+class GithubContents:
+    # https://github.com/simonw/github-contents/blob/main/github_contents.py
+    class NotFound(Exception):
+        pass
+
+    class UnknownError(Exception):
+        pass
+
+    def __init__(self, owner, repo, token, branch="main"):
+        self.owner = owner
+        self.repo = repo
+        self.token = token
+        self.session = Session()
+        self.branch = branch
+
+    def base_url(self):
+        return "https://api.github.com/repos/{}/{}".format(self.owner, self.repo)
+
+    def headers(self):
+        return {"Authorization": "token {}".format(self.token)}
+
+    def read(self, filepath):
+        "Returns (file_contents_in_bytes, sha1)"
+        # Try reading using content API
+        content_url = "{}/contents/{}".format(self.base_url(), filepath)
+        response = self.session.get(content_url, headers=self.headers())
+        if response.status_code == 200:
+            data = response.json()
+            if not data.get("download_url") and data.get("download_url"):
+                response = self.session.get(data["download_url"], headers=self.headers())
+                data = response.json()
+            return base64.b64decode(data["content"]), data["sha"]
+        elif response.status_code == 404:
+            raise self.NotFound(filepath)
+        elif response.status_code == 403:
+            # It's probably too large
+            if response.json()["errors"][0]["code"] != "too_large":
+                raise self.UnknownError(response.content)
+            else:
+                return self.read_large(filepath)
+        else:
+            raise self.UnknownError(response.content)
 
 class Scraper:
     owner = None
@@ -185,3 +229,5 @@ class DeltaScraper(Scraper):
             summary_text = "{} {}".format(verb, self.display_name)
         return "{}\n\n{}".format(summary_text, body)
 
+
+    
