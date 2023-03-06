@@ -74,7 +74,6 @@ class Scraper:
             # Check and see if it exists yet
             try:
                 content, sha = github.read(self.filepath)
-                breakpoint()
                 self.last_data = json.loads(content)
                 self.last_sha = sha
             except GithubContents.NotFound:
