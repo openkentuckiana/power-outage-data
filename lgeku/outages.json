@@ -1,5 +1,20 @@
 [
   {
+    "id": "23087084",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2023-06-04T11:01:32Z",
+    "latitude": 37.64555,
+    "longitude": -84.77451,
+    "source": "https://kubra.io/cluster-data/330/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b83a36dd-3541-4724-bf03-1d2f5b07e1ce/public/cluster-3/03200033.json"
+  },
+  {
     "id": "23087067",
     "etr": "2023-06-04T14:00:00Z",
     "etrConfidence": null,
@@ -12,40 +27,10 @@
     "startTime": "2023-06-04T10:25:04Z",
     "latitude": 38.1412,
     "longitude": -85.63148,
-    "source": "https://kubra.io/cluster-data/002/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2adaab77-9697-4358-acfd-8cc88922a82f/public/cluster-3/03200031200.json"
+    "source": "https://kubra.io/cluster-data/002/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b83a36dd-3541-4724-bf03-1d2f5b07e1ce/public/cluster-3/03200031200.json"
   },
   {
-    "id": "23087070",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 29,
-    "crewStatus": null,
-    "startTime": "2023-06-04T10:37:06Z",
-    "latitude": 38.27361,
-    "longitude": -85.62276,
-    "source": "https://kubra.io/cluster-data/333/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2adaab77-9697-4358-acfd-8cc88922a82f/public/cluster-3/03200031022333.json"
-  },
-  {
-    "id": "23087076",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 660,
-    "crewStatus": null,
-    "startTime": "2023-06-04T10:42:28Z",
-    "latitude": 38.30067,
-    "longitude": -85.63768,
-    "source": "https://kubra.io/cluster-data/033/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2adaab77-9697-4358-acfd-8cc88922a82f/public/cluster-3/03200031022330.json"
-  },
-  {
-    "id": "23087078",
+    "id": "23087083",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
@@ -54,10 +39,40 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2023-06-04T10:44:06Z",
-    "latitude": 38.29697,
-    "longitude": -85.63771,
-    "source": "https://kubra.io/cluster-data/033/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2adaab77-9697-4358-acfd-8cc88922a82f/public/cluster-3/03200031022330.json"
+    "startTime": "2023-06-04T10:53:52Z",
+    "latitude": 38.2037,
+    "longitude": -85.71397,
+    "source": "https://kubra.io/cluster-data/002/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b83a36dd-3541-4724-bf03-1d2f5b07e1ce/public/cluster-3/03200031200.json"
+  },
+  {
+    "id": "23087070",
+    "etr": "2023-06-04T14:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 29,
+    "crewStatus": null,
+    "startTime": "2023-06-04T10:37:06Z",
+    "latitude": 38.27361,
+    "longitude": -85.62276,
+    "source": "https://kubra.io/cluster-data/220/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b83a36dd-3541-4724-bf03-1d2f5b07e1ce/public/cluster-3/03200031022.json"
+  },
+  {
+    "id": "23087076",
+    "etr": "2023-06-04T14:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 183,
+    "crewStatus": null,
+    "startTime": "2023-06-04T10:42:28Z",
+    "latitude": 38.29183,
+    "longitude": -85.63149,
+    "source": "https://kubra.io/cluster-data/220/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b83a36dd-3541-4724-bf03-1d2f5b07e1ce/public/cluster-3/03200031022.json"
   },
   {
     "id": "23087022",
@@ -72,21 +87,21 @@
     "startTime": "2023-06-04T03:20:56Z",
     "latitude": 38.17402,
     "longitude": -84.75391,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2adaab77-9697-4358-acfd-8cc88922a82f/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b83a36dd-3541-4724-bf03-1d2f5b07e1ce/public/cluster-3/0320003.json"
   },
   {
     "id": "23087071",
-    "etr": "ETR-NULL",
+    "etr": "2023-06-04T13:00:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
     "startTime": "2023-06-04T10:40:12Z",
-    "latitude": 37.30694,
-    "longitude": -88.07989,
-    "source": "https://kubra.io/cluster-data/200/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2adaab77-9697-4358-acfd-8cc88922a82f/public/cluster-3/0320002.json"
+    "latitude": 37.30731,
+    "longitude": -88.08008,
+    "source": "https://kubra.io/cluster-data/200/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b83a36dd-3541-4724-bf03-1d2f5b07e1ce/public/cluster-3/0320002.json"
   }
 ]
