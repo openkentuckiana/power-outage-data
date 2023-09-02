@@ -1,5 +1,20 @@
 [
   {
+    "id": "23139470",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Weather-related",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2023-09-02T12:30:54Z",
+    "latitude": 38.18321,
+    "longitude": -85.64598,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/dfb8730c-a9e0-4bbf-8cd9-a8eac78b5c51/public/cluster-3/0320003.json"
+  },
+  {
     "id": "23137133",
     "etr": "ETR-NULL",
     "etrConfidence": null,
@@ -12,7 +27,7 @@
     "startTime": "2023-08-28T11:26:03Z",
     "latitude": 38.78519,
     "longitude": -84.8885,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/83b1cdd9-f047-40aa-badd-6aaa4e6d8b73/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/dfb8730c-a9e0-4bbf-8cd9-a8eac78b5c51/public/cluster-3/0320003.json"
   },
   {
     "id": "23139464",
@@ -27,6 +42,21 @@
     "startTime": "2023-09-02T12:05:59Z",
     "latitude": 38.09604,
     "longitude": -85.87357,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/83b1cdd9-f047-40aa-badd-6aaa4e6d8b73/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/dfb8730c-a9e0-4bbf-8cd9-a8eac78b5c51/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "23139466",
+    "etr": "2023-09-02T14:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on historical averages of the time required to make similar repairs in this area.  We will update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2023-09-02T12:22:14Z",
+    "latitude": 37.37609,
+    "longitude": -87.57355,
+    "source": "https://kubra.io/cluster-data/200/aa3e643b-d606-4bc6-944f-a2f22f0d5879/dfb8730c-a9e0-4bbf-8cd9-a8eac78b5c51/public/cluster-3/0320002.json"
   }
 ]
