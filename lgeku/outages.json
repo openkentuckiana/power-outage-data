@@ -1,20 +1,5 @@
 [
   {
-    "id": "24016406",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Scheduled maintenance",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2024-02-21T14:30:47Z",
-    "latitude": 36.61973,
-    "longitude": -83.70576,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/45aa7956-7f2d-426c-aa75-254897d82704/public/cluster-3/0320012.json"
-  },
-  {
     "id": "24017221",
     "etr": "ETR-EXP",
     "etrConfidence": null,
@@ -27,7 +12,37 @@
     "startTime": "2024-02-24T18:28:33Z",
     "latitude": 38.20436,
     "longitude": -85.76559,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/45aa7956-7f2d-426c-aa75-254897d82704/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/021/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bc4ae92a-4977-455c-928b-cb472ee4145c/public/cluster-3/0320003120.json"
+  },
+  {
+    "id": "24017249",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-02-24T23:33:57Z",
+    "latitude": 38.17364,
+    "longitude": -85.76061,
+    "source": "https://kubra.io/cluster-data/021/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bc4ae92a-4977-455c-928b-cb472ee4145c/public/cluster-3/0320003120.json"
+  },
+  {
+    "id": "24016406",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-02-21T14:30:47Z",
+    "latitude": 36.61973,
+    "longitude": -83.70576,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bc4ae92a-4977-455c-928b-cb472ee4145c/public/cluster-3/0320012.json"
   },
   {
     "id": "24017154",
@@ -42,6 +57,6 @@
     "startTime": "2024-02-24T12:15:14Z",
     "latitude": 37.99339,
     "longitude": -84.46554,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/45aa7956-7f2d-426c-aa75-254897d82704/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bc4ae92a-4977-455c-928b-cb472ee4145c/public/cluster-3/0320003.json"
   }
 ]
