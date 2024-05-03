@@ -1,18 +1,33 @@
 [
   {
-    "id": "24041215",
-    "etr": "2024-05-03T14:00:00Z",
+    "id": "24041248",
+    "etr": "2024-05-03T16:00:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-05-03T13:00:13Z",
+    "latitude": 36.60176,
+    "longitude": -83.75312,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/fd755d30-d134-4493-9bab-531a84db6104/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "24041250",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2024-05-03T10:22:39Z",
-    "latitude": 38.21756,
-    "longitude": -85.66831,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/579ea3f5-7477-4a8c-a5ec-96d0768b5d3e/public/cluster-3/03200031.json"
+    "startTime": "2024-05-03T13:08:40Z",
+    "latitude": 36.9303,
+    "longitude": -83.99815,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/fd755d30-d134-4493-9bab-531a84db6104/public/cluster-3/0320012.json"
   },
   {
     "id": "24041235",
@@ -27,7 +42,7 @@
     "startTime": "2024-05-03T09:55:54Z",
     "latitude": 38.298,
     "longitude": -85.64124,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/579ea3f5-7477-4a8c-a5ec-96d0768b5d3e/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/fd755d30-d134-4493-9bab-531a84db6104/public/cluster-3/0320003.json"
   },
   {
     "id": "24041244",
@@ -42,6 +57,6 @@
     "startTime": "2024-05-03T12:41:36Z",
     "latitude": 38.01667,
     "longitude": -84.4669,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/579ea3f5-7477-4a8c-a5ec-96d0768b5d3e/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/fd755d30-d134-4493-9bab-531a84db6104/public/cluster-3/0320003.json"
   }
 ]
