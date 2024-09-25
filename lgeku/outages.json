@@ -12,7 +12,7 @@
     "startTime": "2024-09-25T02:52:37Z",
     "latitude": 38.24567,
     "longitude": -85.68427,
-    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/7e88b663-a037-4da2-ae8e-9ea3b7175f6b/public/cluster-3/032000312.json"
+    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1be4a793-4ac6-490c-b1b8-fe26b67b9e36/public/cluster-3/032000312.json"
   },
   {
     "id": "24046886",
@@ -27,14 +27,14 @@
     "startTime": "2024-05-17T12:19:51Z",
     "latitude": 38.07617,
     "longitude": -84.48941,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/7e88b663-a037-4da2-ae8e-9ea3b7175f6b/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1be4a793-4ac6-490c-b1b8-fe26b67b9e36/public/cluster-3/0320003.json"
   },
   {
     "id": "24123779",
-    "etr": "ETR-EXP",
+    "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
     "cause": "Weather-related",
     "numberOut": 1,
     "custAffected": 4,
@@ -42,7 +42,22 @@
     "startTime": "2024-09-24T19:02:52Z",
     "latitude": 38.38972,
     "longitude": -85.42243,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/7e88b663-a037-4da2-ae8e-9ea3b7175f6b/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1be4a793-4ac6-490c-b1b8-fe26b67b9e36/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "24124008",
+    "etr": "2024-09-25T07:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2024-09-25T04:01:33Z",
+    "latitude": 38.31708,
+    "longitude": -85.14971,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1be4a793-4ac6-490c-b1b8-fe26b67b9e36/public/cluster-3/0320003.json"
   },
   {
     "id": "24123916",
@@ -57,7 +72,7 @@
     "startTime": "2024-09-24T22:00:05Z",
     "latitude": 38.28138,
     "longitude": -85.59496,
-    "source": "https://kubra.io/cluster-data/013/aa3e643b-d606-4bc6-944f-a2f22f0d5879/7e88b663-a037-4da2-ae8e-9ea3b7175f6b/public/cluster-3/032000310.json"
+    "source": "https://kubra.io/cluster-data/013/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1be4a793-4ac6-490c-b1b8-fe26b67b9e36/public/cluster-3/032000310.json"
   },
   {
     "id": "24123995",
@@ -72,6 +87,6 @@
     "startTime": "2024-09-24T19:27:39Z",
     "latitude": 38.21566,
     "longitude": -85.58411,
-    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/7e88b663-a037-4da2-ae8e-9ea3b7175f6b/public/cluster-3/032000312.json"
+    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/1be4a793-4ac6-490c-b1b8-fe26b67b9e36/public/cluster-3/032000312.json"
   }
 ]
