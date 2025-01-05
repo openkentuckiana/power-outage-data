@@ -1,10 +1,25 @@
 [
   {
-    "id": "25000771",
-    "etr": "ETR-NULL",
+    "id": "25000767",
+    "etr": "2025-01-05T08:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Damaged equipment",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2025-01-05T06:05:12Z",
+    "latitude": 37.32016,
+    "longitude": -87.15419,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/df3f326a-dfc9-4dae-92e1-8339fd3e5992/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "25000771",
+    "etr": "2025-01-05T11:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
@@ -12,21 +27,6 @@
     "startTime": "2025-01-05T07:30:26Z",
     "latitude": 38.25919,
     "longitude": -85.70504,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/370c452d-873a-4b61-ae01-c5e38e8ea4bf/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "25000769",
-    "etr": "2025-01-05T10:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 26,
-    "crewStatus": null,
-    "startTime": "2025-01-05T06:28:21Z",
-    "latitude": 38.05701,
-    "longitude": -84.47982,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/370c452d-873a-4b61-ae01-c5e38e8ea4bf/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/df3f326a-dfc9-4dae-92e1-8339fd3e5992/public/cluster-3/0320003.json"
   }
 ]
