@@ -1,5 +1,20 @@
 [
   {
+    "id": "25073875",
+    "etr": "2025-06-02T05:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Weather-related",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2025-06-02T02:35:33Z",
+    "latitude": 37.13711,
+    "longitude": -84.09739,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/697ed5e5-94e9-44c0-be4b-2295e65b6498/public/cluster-3/0320012.json"
+  },
+  {
     "id": "25073874",
     "etr": "2025-06-02T16:30:00Z",
     "etrConfidence": null,
@@ -12,6 +27,21 @@
     "startTime": "2025-06-01T23:16:22Z",
     "latitude": 36.9247,
     "longitude": -83.53873,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/3ac1ce1e-bd74-435f-a6ff-68c73798858c/public/cluster-3/0320012.json"
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/697ed5e5-94e9-44c0-be4b-2295e65b6498/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "25073880",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Weather-related",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2025-06-02T03:08:41Z",
+    "latitude": 38.3146,
+    "longitude": -85.46251,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/697ed5e5-94e9-44c0-be4b-2295e65b6498/public/cluster-3/0320003.json"
   }
 ]
