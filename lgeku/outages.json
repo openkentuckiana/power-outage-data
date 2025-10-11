@@ -1,5 +1,35 @@
 [
   {
+    "id": "25129005",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2025-10-11T02:42:44Z",
+    "latitude": 38.09112,
+    "longitude": -85.67887,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/581ce4f1-4cf5-403f-8a49-6c17b1c5c0aa/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "25129004",
+    "etr": "2025-10-11T06:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2025-10-11T02:37:41Z",
+    "latitude": 38.05183,
+    "longitude": -84.52409,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/581ce4f1-4cf5-403f-8a49-6c17b1c5c0aa/public/cluster-3/0320003.json"
+  },
+  {
     "id": "25129002",
     "etr": "2025-10-11T04:30:00Z",
     "etrConfidence": null,
@@ -12,21 +42,6 @@
     "startTime": "2025-10-11T01:48:40Z",
     "latitude": 37.79758,
     "longitude": -85.92605,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bd07de9a-1ce1-4f1a-b721-44bc45ab17a8/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "25128995",
-    "etr": "ETR-EXP",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2025-10-10T23:49:11Z",
-    "latitude": 37.07961,
-    "longitude": -88.09349,
-    "source": "https://kubra.io/cluster-data/200/aa3e643b-d606-4bc6-944f-a2f22f0d5879/bd07de9a-1ce1-4f1a-b721-44bc45ab17a8/public/cluster-3/0320002.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/581ce4f1-4cf5-403f-8a49-6c17b1c5c0aa/public/cluster-3/0320003.json"
   }
 ]
