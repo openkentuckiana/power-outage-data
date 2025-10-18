@@ -1,32 +1,47 @@
 [
   {
-    "id": "25131260",
+    "id": "25131276",
     "etr": "2025-10-18T17:00:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Unable to determine",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 8,
+    "crewStatus": null,
+    "startTime": "2025-10-18T14:09:43Z",
+    "latitude": 36.74929,
+    "longitude": -84.15093,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a4f7de7d-8266-408f-8839-4bbaa2398294/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "25131275",
+    "etr": "2025-10-18T18:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2025-10-18T15:44:23Z",
+    "latitude": 38.02513,
+    "longitude": -84.40154,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a4f7de7d-8266-408f-8839-4bbaa2398294/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "25131274",
+    "etr": "2025-10-18T17:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Damaged equipment",
     "numberOut": 1,
     "custAffected": 24,
     "crewStatus": null,
-    "startTime": "2025-10-18T14:09:43Z",
-    "latitude": 36.74946,
-    "longitude": -84.15184,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/81642181-8c77-4e26-9dd1-163e6a0210e1/public/cluster-3/0320012.json"
-  },
-  {
-    "id": "25131248",
-    "etr": "2025-10-18T17:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Unable to assess due to conditions",
-    "numberOut": 1,
-    "custAffected": 30,
-    "crewStatus": null,
     "startTime": "2025-10-18T13:27:35Z",
-    "latitude": 38.01182,
-    "longitude": -84.57091,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/81642181-8c77-4e26-9dd1-163e6a0210e1/public/cluster-3/0320003.json"
+    "latitude": 38.01194,
+    "longitude": -84.57061,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a4f7de7d-8266-408f-8839-4bbaa2398294/public/cluster-3/0320003.json"
   }
 ]
