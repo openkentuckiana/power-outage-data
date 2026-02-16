@@ -1,40 +1,25 @@
 [
   {
     "id": "26013068",
-    "etr": "ETR-NULL",
+    "etr": "2026-02-16T23:00:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Working to determine cause",
+    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Damaged equipment",
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
     "startTime": "2026-02-16T01:54:48Z",
     "latitude": 36.98711,
     "longitude": -84.59249,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/4615d1e2-b1b9-4893-81c9-657f377f617e/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "26013050",
-    "etr": "2026-02-16T02:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 8,
-    "crewStatus": null,
-    "startTime": "2026-02-15T22:44:51Z",
-    "latitude": 38.20921,
-    "longitude": -85.69631,
-    "source": "https://kubra.io/cluster-data/000/aa3e643b-d606-4bc6-944f-a2f22f0d5879/4615d1e2-b1b9-4893-81c9-657f377f617e/public/cluster-3/032000312000.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a317b4b6-8316-4db9-acbe-efa70b77aa6e/public/cluster-3/0320003.json"
   },
   {
     "id": "26013045",
-    "etr": "2026-02-16T02:00:00Z",
+    "etr": "ETR-EXP",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
     "cause": "Motor vehicle accident",
     "numberOut": 1,
     "custAffected": 75,
@@ -42,7 +27,7 @@
     "startTime": "2026-02-15T22:34:25Z",
     "latitude": 38.1811,
     "longitude": -85.82598,
-    "source": "https://kubra.io/cluster-data/311/aa3e643b-d606-4bc6-944f-a2f22f0d5879/4615d1e2-b1b9-4893-81c9-657f377f617e/public/cluster-3/032000303113.json"
+    "source": "https://kubra.io/cluster-data/311/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a317b4b6-8316-4db9-acbe-efa70b77aa6e/public/cluster-3/032000303113.json"
   },
   {
     "id": "26013053",
@@ -57,6 +42,6 @@
     "startTime": "2026-02-15T23:12:44Z",
     "latitude": 38.17666,
     "longitude": -85.83042,
-    "source": "https://kubra.io/cluster-data/311/aa3e643b-d606-4bc6-944f-a2f22f0d5879/4615d1e2-b1b9-4893-81c9-657f377f617e/public/cluster-3/032000303113.json"
+    "source": "https://kubra.io/cluster-data/311/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a317b4b6-8316-4db9-acbe-efa70b77aa6e/public/cluster-3/032000303113.json"
   }
 ]
