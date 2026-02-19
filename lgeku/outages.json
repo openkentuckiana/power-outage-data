@@ -1,37 +1,37 @@
 [
   {
-    "id": "26013989",
-    "etr": "2026-02-19T08:00:00Z",
+    "id": "26013985",
+    "etr": "2026-02-19T07:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Trees or limbs in lines",
+    "numberOut": 1,
+    "custAffected": 23,
+    "crewStatus": null,
+    "startTime": "2026-02-19T03:37:42Z",
+    "latitude": 36.98475,
+    "longitude": -82.58343,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/3bca737e-fbd4-4415-b61c-844c3b530b2d/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "26013990",
+    "etr": "2026-02-19T09:00:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Damaged equipment",
+    "cause": "Scheduled maintenance",
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2026-02-19T04:20:54Z",
-    "latitude": 38.04336,
-    "longitude": -84.4949,
-    "source": "https://kubra.io/cluster-data/212/aa3e643b-d606-4bc6-944f-a2f22f0d5879/abe05ee9-854e-473c-853d-d6b594f5b915/public/cluster-3/03200031313212.json"
-  },
-  {
-    "id": "26013983",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 12,
-    "crewStatus": null,
-    "startTime": "2026-02-19T03:19:03Z",
-    "latitude": 38.04228,
-    "longitude": -84.49242,
-    "source": "https://kubra.io/cluster-data/212/aa3e643b-d606-4bc6-944f-a2f22f0d5879/abe05ee9-854e-473c-853d-d6b594f5b915/public/cluster-3/03200031313212.json"
+    "startTime": "2026-02-19T04:54:27Z",
+    "latitude": 38.23922,
+    "longitude": -85.48696,
+    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/3bca737e-fbd4-4415-b61c-844c3b530b2d/public/cluster-3/03200031.json"
   },
   {
     "id": "26013964",
-    "etr": "2026-02-19T04:30:00Z",
+    "etr": "2026-02-19T06:30:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
@@ -42,7 +42,7 @@
     "startTime": "2026-02-18T23:21:15Z",
     "latitude": 38.10477,
     "longitude": -85.87477,
-    "source": "https://kubra.io/cluster-data/030/aa3e643b-d606-4bc6-944f-a2f22f0d5879/abe05ee9-854e-473c-853d-d6b594f5b915/public/cluster-3/03200030.json"
+    "source": "https://kubra.io/cluster-data/030/aa3e643b-d606-4bc6-944f-a2f22f0d5879/3bca737e-fbd4-4415-b61c-844c3b530b2d/public/cluster-3/03200030.json"
   },
   {
     "id": "26013974",
@@ -57,21 +57,36 @@
     "startTime": "2026-02-19T02:03:28Z",
     "latitude": 38.20762,
     "longitude": -85.7863,
-    "source": "https://kubra.io/cluster-data/030/aa3e643b-d606-4bc6-944f-a2f22f0d5879/abe05ee9-854e-473c-853d-d6b594f5b915/public/cluster-3/03200030.json"
+    "source": "https://kubra.io/cluster-data/030/aa3e643b-d606-4bc6-944f-a2f22f0d5879/3bca737e-fbd4-4415-b61c-844c3b530b2d/public/cluster-3/03200030.json"
   },
   {
-    "id": "26013985",
-    "etr": "2026-02-19T07:30:00Z",
+    "id": "26013989",
+    "etr": "2026-02-19T08:00:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Trees or limbs in lines",
+    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Damaged equipment",
     "numberOut": 1,
-    "custAffected": 23,
+    "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2026-02-19T03:37:42Z",
-    "latitude": 36.98475,
-    "longitude": -82.58343,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/abe05ee9-854e-473c-853d-d6b594f5b915/public/cluster-3/0320012.json"
+    "startTime": "2026-02-19T04:20:54Z",
+    "latitude": 38.04336,
+    "longitude": -84.4949,
+    "source": "https://kubra.io/cluster-data/212/aa3e643b-d606-4bc6-944f-a2f22f0d5879/3bca737e-fbd4-4415-b61c-844c3b530b2d/public/cluster-3/03200031313212.json"
+  },
+  {
+    "id": "26013983",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 12,
+    "crewStatus": null,
+    "startTime": "2026-02-19T03:19:03Z",
+    "latitude": 38.04228,
+    "longitude": -84.49242,
+    "source": "https://kubra.io/cluster-data/212/aa3e643b-d606-4bc6-944f-a2f22f0d5879/3bca737e-fbd4-4415-b61c-844c3b530b2d/public/cluster-3/03200031313212.json"
   }
 ]
