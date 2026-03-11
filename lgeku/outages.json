@@ -1,17 +1,32 @@
 [
   {
     "id": "26019132",
-    "etr": "ETR-NULL",
+    "etr": "2026-03-11T14:00:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Working to determine cause",
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Motor vehicle accident",
     "numberOut": 1,
     "custAffected": 47,
     "crewStatus": null,
     "startTime": "2026-03-11T10:04:56Z",
     "latitude": 37.52644,
     "longitude": -85.71194,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/4c2043ba-f11b-45a4-b3c9-c4c4e205b64e/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/302/aa3e643b-d606-4bc6-944f-a2f22f0d5879/ee676e57-7c3b-4c63-874c-a071e6c93838/public/cluster-3/0320003300203.json"
+  },
+  {
+    "id": "26019136",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Motor vehicle accident",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2026-03-11T10:40:42Z",
+    "latitude": 37.52158,
+    "longitude": -85.71359,
+    "source": "https://kubra.io/cluster-data/302/aa3e643b-d606-4bc6-944f-a2f22f0d5879/ee676e57-7c3b-4c63-874c-a071e6c93838/public/cluster-3/0320003300203.json"
   }
 ]
