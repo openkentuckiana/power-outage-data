@@ -1,20 +1,5 @@
 [
   {
-    "id": "26020688",
-    "etr": "2026-03-14T13:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2026-03-14T11:26:51Z",
-    "latitude": 38.31616,
-    "longitude": -84.06206,
-    "source": "https://kubra.io/cluster-data/021/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d04e0aac-ab71-43eb-a6bc-bebb7d782288/public/cluster-3/03200120.json"
-  },
-  {
     "id": "26020692",
     "etr": "2026-03-14T14:00:00Z",
     "etrConfidence": null,
@@ -27,22 +12,37 @@
     "startTime": "2026-03-14T12:15:41Z",
     "latitude": 37.34416,
     "longitude": -84.66802,
-    "source": "https://kubra.io/cluster-data/330/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d04e0aac-ab71-43eb-a6bc-bebb7d782288/public/cluster-3/03200033.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/0320003.json"
   },
   {
-    "id": "26020683",
-    "etr": "2026-03-14T13:30:00Z",
+    "id": "26020697",
+    "etr": "2026-03-14T16:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Scheduled maintenance",
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 53,
+    "crewStatus": null,
+    "startTime": "2026-03-14T12:48:46Z",
+    "latitude": 36.79489,
+    "longitude": -83.25801,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "26020696",
+    "etr": "2026-03-14T15:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2026-03-14T10:35:45Z",
-    "latitude": 37.28858,
-    "longitude": -85.8972,
-    "source": "https://kubra.io/cluster-data/230/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d04e0aac-ab71-43eb-a6bc-bebb7d782288/public/cluster-3/03200032.json"
+    "startTime": "2026-03-14T12:48:05Z",
+    "latitude": 38.68135,
+    "longitude": -84.06198,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/0320012.json"
   },
   {
     "id": "26020690",
@@ -57,7 +57,7 @@
     "startTime": "2026-03-14T12:07:15Z",
     "latitude": 38.18247,
     "longitude": -85.65271,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d04e0aac-ab71-43eb-a6bc-bebb7d782288/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/03200031.json"
   },
   {
     "id": "26020689",
@@ -72,7 +72,7 @@
     "startTime": "2026-03-14T11:57Z",
     "latitude": 38.38261,
     "longitude": -85.26581,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d04e0aac-ab71-43eb-a6bc-bebb7d782288/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/0320003.json"
   },
   {
     "id": "26020685",
@@ -80,13 +80,88 @@
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 18,
+    "crewStatus": null,
+    "startTime": "2026-03-14T11:06Z",
+    "latitude": 38.28518,
+    "longitude": -85.61007,
+    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/03200031.json"
+  },
+  {
+    "id": "26020701",
+    "etr": "2026-03-14T16:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2026-03-14T11:06Z",
-    "latitude": 38.28429,
-    "longitude": -85.6099,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d04e0aac-ab71-43eb-a6bc-bebb7d782288/public/cluster-3/03200031.json"
+    "startTime": "2026-03-14T13:01:41Z",
+    "latitude": 38.15141,
+    "longitude": -85.8928,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "26020683",
+    "etr": "2026-03-14T13:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2026-03-14T10:35:45Z",
+    "latitude": 37.28858,
+    "longitude": -85.8972,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "26020702",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2026-03-14T13:04:37Z",
+    "latitude": 37.61485,
+    "longitude": -86.00481,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "26020699",
+    "etr": "2026-03-14T15:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2026-03-14T12:51:38Z",
+    "latitude": 37.31129,
+    "longitude": -87.2628,
+    "source": "https://kubra.io/cluster-data/320/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/03200023.json"
+  },
+  {
+    "id": "26020703",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2026-03-14T13:05:24Z",
+    "latitude": 37.41161,
+    "longitude": -87.26084,
+    "source": "https://kubra.io/cluster-data/320/aa3e643b-d606-4bc6-944f-a2f22f0d5879/e726db2e-cc70-4065-97dd-92f6ba497196/public/cluster-3/03200023.json"
   }
 ]
