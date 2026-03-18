@@ -1,5 +1,20 @@
 [
   {
+    "id": "26024175",
+    "etr": "ETR-NULL",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 6,
+    "crewStatus": null,
+    "startTime": "2026-03-18T12:28:28Z",
+    "latitude": 36.70629,
+    "longitude": -82.97551,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/15a05a28-262d-45a5-aa5d-45179e2700c9/public/cluster-3/0320012.json"
+  },
+  {
     "id": "26024158",
     "etr": "2026-03-18T13:00:00Z",
     "etrConfidence": null,
@@ -12,6 +27,21 @@
     "startTime": "2026-03-18T09:15:51Z",
     "latitude": 38.2395,
     "longitude": -85.58172,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/40014077-6292-49a4-8609-30bbeb32f3ac/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/15a05a28-262d-45a5-aa5d-45179e2700c9/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "26024171",
+    "etr": "2026-03-18T20:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 13,
+    "crewStatus": null,
+    "startTime": "2026-03-18T12:07:37Z",
+    "latitude": 38.07528,
+    "longitude": -85.7873,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/15a05a28-262d-45a5-aa5d-45179e2700c9/public/cluster-3/0320003.json"
   }
 ]
