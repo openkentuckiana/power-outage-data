@@ -1,21 +1,6 @@
 [
   {
-    "id": "26028218",
-    "etr": "2026-03-29T23:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Unable to assess due to conditions",
-    "numberOut": 1,
-    "custAffected": 7,
-    "crewStatus": null,
-    "startTime": "2026-03-29T18:52:57Z",
-    "latitude": 38.23243,
-    "longitude": -85.70063,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b53ea7d2-aaa0-407b-9448-0999bbcacf9a/public/cluster-3/03200031.json"
-  },
-  {
-    "id": "26028280",
+    "id": "26028287",
     "etr": "ETR-NULL",
     "etrConfidence": null,
     "cluster": false,
@@ -24,10 +9,40 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
+    "startTime": "2026-03-29T23:38:08Z",
+    "latitude": 38.21896,
+    "longitude": -85.79741,
+    "source": "https://kubra.io/cluster-data/030/aa3e643b-d606-4bc6-944f-a2f22f0d5879/735e5990-af87-4a67-932c-16cb13895e34/public/cluster-3/03200030.json"
+  },
+  {
+    "id": "26028218",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "cause": "Unable to assess due to conditions",
+    "numberOut": 1,
+    "custAffected": 7,
+    "crewStatus": null,
+    "startTime": "2026-03-29T18:52:57Z",
+    "latitude": 38.23243,
+    "longitude": -85.70063,
+    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/735e5990-af87-4a67-932c-16cb13895e34/public/cluster-3/03200031.json"
+  },
+  {
+    "id": "26028280",
+    "etr": "2026-03-30T03:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
     "startTime": "2026-03-29T23:12:49Z",
     "latitude": 38.315,
     "longitude": -85.64774,
-    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b53ea7d2-aaa0-407b-9448-0999bbcacf9a/public/cluster-3/03200031022312.json"
+    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/735e5990-af87-4a67-932c-16cb13895e34/public/cluster-3/03200031022312.json"
   },
   {
     "id": "26028230",
@@ -42,6 +57,6 @@
     "startTime": "2026-03-29T18:13:22Z",
     "latitude": 38.31502,
     "longitude": -85.6477,
-    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/b53ea7d2-aaa0-407b-9448-0999bbcacf9a/public/cluster-3/03200031022312.json"
+    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/735e5990-af87-4a67-932c-16cb13895e34/public/cluster-3/03200031022312.json"
   }
 ]
