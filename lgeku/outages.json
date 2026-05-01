@@ -1,5 +1,20 @@
 [
   {
+    "id": "26041080",
+    "etr": "2026-05-01T09:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Trees or limbs in lines",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2026-05-01T05:09:16Z",
+    "latitude": 38.2655,
+    "longitude": -85.61896,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/c511e91c-1d1e-4729-9acf-25308119597e/public/cluster-3/0320003.json"
+  },
+  {
     "id": "26040548",
     "etr": "ETR-NULL",
     "etrConfidence": null,
@@ -12,21 +27,6 @@
     "startTime": "2026-04-29T17:28:23Z",
     "latitude": 38.18175,
     "longitude": -85.88652,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/cdd492dc-09ce-4c32-9239-56102d11979e/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "26041079",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 9,
-    "crewStatus": null,
-    "startTime": "2026-05-01T04:39:08Z",
-    "latitude": 37.30818,
-    "longitude": -87.51485,
-    "source": "https://kubra.io/cluster-data/200/aa3e643b-d606-4bc6-944f-a2f22f0d5879/cdd492dc-09ce-4c32-9239-56102d11979e/public/cluster-3/0320002.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/c511e91c-1d1e-4729-9acf-25308119597e/public/cluster-3/0320003.json"
   }
 ]
