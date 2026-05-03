@@ -1,10 +1,25 @@
 [
   {
-    "id": "26041436",
-    "etr": "2026-05-03T03:30:00Z",
+    "id": "26041484",
+    "etr": "2026-05-03T07:30:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Weather-related",
+    "numberOut": 1,
+    "custAffected": 25,
+    "crewStatus": null,
+    "startTime": "2026-05-03T03:45:07Z",
+    "latitude": 38.30138,
+    "longitude": -85.49557,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/fc99f9d8-bfc5-4cfb-8147-854ed2691bf2/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "26041436",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
     "cause": "Trees or limbs in lines",
     "numberOut": 1,
     "custAffected": 4,
@@ -12,7 +27,7 @@
     "startTime": "2026-05-02T18:10:32Z",
     "latitude": 37.95724,
     "longitude": -86.05688,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a3259755-b230-4bfe-bd96-1be15abbdf44/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/fc99f9d8-bfc5-4cfb-8147-854ed2691bf2/public/cluster-3/0320003.json"
   },
   {
     "id": "26041453",
@@ -27,6 +42,6 @@
     "startTime": "2026-05-02T20:55:11Z",
     "latitude": 38.18287,
     "longitude": -85.8294,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/a3259755-b230-4bfe-bd96-1be15abbdf44/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/fc99f9d8-bfc5-4cfb-8147-854ed2691bf2/public/cluster-3/0320003.json"
   }
 ]
