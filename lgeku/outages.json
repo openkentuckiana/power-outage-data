@@ -1,5 +1,20 @@
 [
   {
+    "id": "26043681",
+    "etr": "2026-05-10T00:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Weather-related",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2026-05-09T21:12:09Z",
+    "latitude": 38.18227,
+    "longitude": -85.77094,
+    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2ec4c962-07cd-4745-840d-70638c117e38/public/cluster-3/03200031.json"
+  },
+  {
     "id": "26043671",
     "etr": "2026-05-09T23:00:00Z",
     "etrConfidence": null,
@@ -12,36 +27,6 @@
     "startTime": "2026-05-09T20:05:05Z",
     "latitude": 38.25286,
     "longitude": -85.82106,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/136bc1db-c6fa-4ae4-9801-8023b3e2867b/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "26043674",
-    "etr": "2026-05-10T00:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Weather-related",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2026-05-09T20:08:55Z",
-    "latitude": 38.17964,
-    "longitude": -85.64037,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/136bc1db-c6fa-4ae4-9801-8023b3e2867b/public/cluster-3/03200031.json"
-  },
-  {
-    "id": "26043681",
-    "etr": "ETR-NULL",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "We are aware of outages in this area and will provide an estimated time of restoration as soon as possible.",
-    "cause": "Weather-related",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2026-05-09T21:12:09Z",
-    "latitude": 38.18227,
-    "longitude": -85.77094,
-    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/136bc1db-c6fa-4ae4-9801-8023b3e2867b/public/cluster-3/03200031.json"
+    "source": "https://kubra.io/cluster-data/030/aa3e643b-d606-4bc6-944f-a2f22f0d5879/2ec4c962-07cd-4745-840d-70638c117e38/public/cluster-3/03200030.json"
   }
 ]
