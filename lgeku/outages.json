@@ -1,35 +1,5 @@
 [
   {
-    "id": "26078692",
-    "etr": "2026-07-15T08:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Damaged equipment",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2026-07-14T23:36Z",
-    "latitude": 38.27534,
-    "longitude": -85.66669,
-    "source": "https://kubra.io/cluster-data/013/aa3e643b-d606-4bc6-944f-a2f22f0d5879/8a83e561-55d7-453b-8f64-db948a603fee/public/cluster-3/032000310.json"
-  },
-  {
-    "id": "26078757",
-    "etr": "2026-07-15T11:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 4,
-    "crewStatus": null,
-    "startTime": "2026-07-15T07:35Z",
-    "latitude": 37.99276,
-    "longitude": -84.46496,
-    "source": "https://kubra.io/cluster-data/313/aa3e643b-d606-4bc6-944f-a2f22f0d5879/8a83e561-55d7-453b-8f64-db948a603fee/public/cluster-3/032000313.json"
-  },
-  {
     "id": "26078750",
     "etr": "2026-07-15T11:00:00Z",
     "etrConfidence": null,
@@ -42,21 +12,21 @@
     "startTime": "2026-07-15T03:02:59Z",
     "latitude": 38.17045,
     "longitude": -85.77462,
-    "source": "https://kubra.io/cluster-data/213/aa3e643b-d606-4bc6-944f-a2f22f0d5879/8a83e561-55d7-453b-8f64-db948a603fee/public/cluster-3/032000312.json"
+    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/f7522606-274d-4081-a938-dab03250a4cb/public/cluster-3/03200031.json"
   },
   {
-    "id": "26078729",
-    "etr": "2026-07-15T09:30:00Z",
+    "id": "26078692",
+    "etr": "ETR-EXP",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Trees or limbs in lines",
+    "comments": "The previous estimated time of restoration has expired and we are re-evaluating the situation. A revised estimate will be provided as soon as possible.",
+    "cause": "Damaged equipment",
     "numberOut": 1,
-    "custAffected": 158,
+    "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2026-07-15T02:58:15Z",
-    "latitude": 38.15934,
-    "longitude": -85.81694,
-    "source": "https://kubra.io/cluster-data/303/aa3e643b-d606-4bc6-944f-a2f22f0d5879/8a83e561-55d7-453b-8f64-db948a603fee/public/cluster-3/032000303.json"
+    "startTime": "2026-07-14T23:36Z",
+    "latitude": 38.27534,
+    "longitude": -85.66669,
+    "source": "https://kubra.io/cluster-data/130/aa3e643b-d606-4bc6-944f-a2f22f0d5879/f7522606-274d-4081-a938-dab03250a4cb/public/cluster-3/03200031.json"
   }
 ]
