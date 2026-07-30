@@ -1,63 +1,33 @@
 [
   {
-    "id": "26087959",
-    "etr": "2026-07-30T05:30:00Z",
+    "id": "26087950",
+    "etr": "2026-07-30T05:00:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
     "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 4,
+    "custAffected": 12,
     "crewStatus": null,
-    "startTime": "2026-07-30T01:49:06Z",
-    "latitude": 38.23257,
-    "longitude": -85.79788,
-    "source": "https://kubra.io/cluster-data/030/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/03200030.json"
+    "startTime": "2026-07-30T01:21Z",
+    "latitude": 36.91093,
+    "longitude": -82.32572,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/637c7e8c-5c33-4486-b6dd-abac97e67114/public/cluster-3/0320012.json"
   },
   {
-    "id": "26087955",
-    "etr": "2026-07-30T04:00:00Z",
+    "id": "26087967",
+    "etr": "2026-07-30T07:00:00Z",
     "etrConfidence": null,
     "cluster": false,
-    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Scheduled maintenance",
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
+    "cause": "Working to determine cause",
     "numberOut": 1,
-    "custAffected": 4,
+    "custAffected": 209,
     "crewStatus": null,
-    "startTime": "2026-07-30T01:35:57Z",
-    "latitude": 38.40544,
-    "longitude": -85.3774,
-    "source": "https://kubra.io/cluster-data/010/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/03200031032010.json"
-  },
-  {
-    "id": "26087941",
-    "etr": "2026-07-30T04:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Scheduled maintenance",
-    "numberOut": 1,
-    "custAffected": 20,
-    "crewStatus": null,
-    "startTime": "2026-07-30T00:14:35Z",
-    "latitude": 38.40597,
-    "longitude": -85.37762,
-    "source": "https://kubra.io/cluster-data/010/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/03200031032010.json"
-  },
-  {
-    "id": "26087923",
-    "etr": "2026-07-30T03:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Trees or limbs in lines",
-    "numberOut": 1,
-    "custAffected": 17,
-    "crewStatus": null,
-    "startTime": "2026-07-29T23:26Z",
-    "latitude": 38.23144,
-    "longitude": -85.6909,
-    "source": "https://kubra.io/cluster-data/021/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/0320003120.json"
+    "startTime": "2026-07-30T03:01:16Z",
+    "latitude": 37.71592,
+    "longitude": -84.35612,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/637c7e8c-5c33-4486-b6dd-abac97e67114/public/cluster-3/0320012.json"
   },
   {
     "id": "26087567",
@@ -72,11 +42,26 @@
     "startTime": "2026-07-29T13:13:03Z",
     "latitude": 38.25411,
     "longitude": -85.68349,
-    "source": "https://kubra.io/cluster-data/021/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/0320003120.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/637c7e8c-5c33-4486-b6dd-abac97e67114/public/cluster-3/0320003.json"
+  },
+  {
+    "id": "26087955",
+    "etr": "2026-07-30T04:00:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
+    "cause": "Scheduled maintenance",
+    "numberOut": 1,
+    "custAffected": 4,
+    "crewStatus": null,
+    "startTime": "2026-07-30T01:35:57Z",
+    "latitude": 38.40544,
+    "longitude": -85.3774,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/637c7e8c-5c33-4486-b6dd-abac97e67114/public/cluster-3/0320003.json"
   },
   {
     "id": "26087915",
-    "etr": "2026-07-30T03:00:00Z",
+    "etr": "2026-07-30T04:00:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
@@ -87,7 +72,7 @@
     "startTime": "2026-07-29T21:35:38Z",
     "latitude": 38.25645,
     "longitude": -84.6683,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/637c7e8c-5c33-4486-b6dd-abac97e67114/public/cluster-3/0320003.json"
   },
   {
     "id": "26087957",
@@ -102,51 +87,21 @@
     "startTime": "2026-07-30T01:40:40Z",
     "latitude": 38.05819,
     "longitude": -84.45453,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/0320003.json"
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/637c7e8c-5c33-4486-b6dd-abac97e67114/public/cluster-3/0320003.json"
   },
   {
-    "id": "26087932",
-    "etr": "2026-07-30T03:30:00Z",
+    "id": "26087971",
+    "etr": "2026-07-30T07:00:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based on an evaluation of the situation by our technicians.",
-    "cause": "Trees or limbs in lines",
+    "cause": "Weather-related",
     "numberOut": 1,
-    "custAffected": 343,
+    "custAffected": 8,
     "crewStatus": null,
     "startTime": "2026-07-29T23:43:43Z",
-    "latitude": 38.05241,
-    "longitude": -84.71964,
-    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/0320003.json"
-  },
-  {
-    "id": "26087937",
-    "etr": "2026-07-30T03:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 6,
-    "crewStatus": null,
-    "startTime": "2026-07-29T23:56:02Z",
-    "latitude": 36.92604,
-    "longitude": -82.28053,
-    "source": "https://kubra.io/cluster-data/232/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/032001232.json"
-  },
-  {
-    "id": "26087950",
-    "etr": "2026-07-30T05:00:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported.  We will continue to update the estimate as more information becomes available.  Please check back for updates.",
-    "cause": "Working to determine cause",
-    "numberOut": 1,
-    "custAffected": 12,
-    "crewStatus": null,
-    "startTime": "2026-07-30T01:21Z",
-    "latitude": 36.91093,
-    "longitude": -82.32572,
-    "source": "https://kubra.io/cluster-data/232/aa3e643b-d606-4bc6-944f-a2f22f0d5879/d258b8eb-20ba-4646-ad24-87e4ca84a5ad/public/cluster-3/032001232.json"
+    "latitude": 38.05558,
+    "longitude": -84.72084,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/637c7e8c-5c33-4486-b6dd-abac97e67114/public/cluster-3/0320003.json"
   }
 ]
