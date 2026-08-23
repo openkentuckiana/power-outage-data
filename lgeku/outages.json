@@ -1,7 +1,22 @@
 [
   {
-    "id": "26299998",
-    "etr": "2026-08-23T22:30:00Z",
+    "id": "26300017",
+    "etr": "2026-08-24T00:30:00Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported. We will continue to update the estimate as more information becomes available. Please check back for updates.",
+    "cause": "Unable to determine",
+    "numberOut": 1,
+    "custAffected": 193,
+    "crewStatus": null,
+    "startTime": "2026-08-23T20:27:15Z",
+    "latitude": 36.98299,
+    "longitude": -82.64444,
+    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/61de1e36-8612-40a5-8a4e-97295b7110dc/public/cluster-3/0320012.json"
+  },
+  {
+    "id": "26300015",
+    "etr": "2026-08-24T00:30:00Z",
     "etrConfidence": null,
     "cluster": false,
     "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported. We will continue to update the estimate as more information becomes available. Please check back for updates.",
@@ -9,24 +24,9 @@
     "numberOut": 1,
     "custAffected": 4,
     "crewStatus": null,
-    "startTime": "2026-08-23T20:27:33Z",
-    "latitude": 37.27021,
-    "longitude": -87.50806,
-    "source": "https://kubra.io/cluster-data/200/aa3e643b-d606-4bc6-944f-a2f22f0d5879/787bde41-6403-4cf0-92bd-dcb8cd2a1db2/public/cluster-3/0320002.json"
-  },
-  {
-    "id": "26300014",
-    "etr": "2026-08-24T00:30:00Z",
-    "etrConfidence": null,
-    "cluster": false,
-    "comments": "This estimated time of restoration is based upon the time it usually takes to restore service for the type of outage reported. We will continue to update the estimate as more information becomes available. Please check back for updates.",
-    "cause": "Unable to determine",
-    "numberOut": 1,
-    "custAffected": 60,
-    "crewStatus": null,
-    "startTime": "2026-08-23T20:27:15Z",
-    "latitude": 36.98374,
-    "longitude": -82.62478,
-    "source": "https://kubra.io/cluster-data/210/aa3e643b-d606-4bc6-944f-a2f22f0d5879/787bde41-6403-4cf0-92bd-dcb8cd2a1db2/public/cluster-3/0320012.json"
+    "startTime": "2026-08-23T20:44:43Z",
+    "latitude": 38.11962,
+    "longitude": -85.86479,
+    "source": "https://kubra.io/cluster-data/300/aa3e643b-d606-4bc6-944f-a2f22f0d5879/61de1e36-8612-40a5-8a4e-97295b7110dc/public/cluster-3/0320003.json"
   }
 ]
